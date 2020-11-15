@@ -1,0 +1,135 @@
+-----------
+
+
+answer:[{"id": "1", "result": "https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment", "prob": 0.8286663889884949}, {"id": "2", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.9206298589706421}, {"id": "3", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.079507976770401}]
+
+-----------
+
+
+answer:[{"id": "4", "result": "https://spb.rt.ru/support/internet/connect/connection-technologies", "prob": 0.20822493731975555}]
+
+-----------
+
+
+answer:[{"id": "5", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.9206297397613525}]
+
+-----------
+
+
+answer:[{"id": "6", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.8828909993171692}]
+
+-----------
+
+
+answer:[{"id": "7", "result": "https://spb.rt.ru/support/hometv/setting/hometv-problems", "prob": 0.11087294667959213}]
+
+-----------
+
+
+answer:[{"id": "8", "result": "https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/wave/", "prob": 0.4422301948070526}]
+
+-----------
+
+
+answer:[{"id": "9", "result": "https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/", "prob": 0.20396097004413605}]
+
+-----------
+
+
+answer:[{"id": "10", "result": "https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/help_3/#\u043a\u0430\u043a-\u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c-\u0443\u043c\u043d\u0443\u044e-\u043b\u0430\u043c\u043f\u043e\u0447\u043a\u0443", "prob": 0.33216941356658936}]
+
+-----------
+
+
+answer:[{"id": "11", "result": "https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv", "prob": 0.2938922643661499}]
+
+-----------
+
+
+answer:[{"id": "12", "result": "https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv", "prob": 0.8976136445999146}]
+
+-----------
+
+
+answer:[{"id": "14", "result": "https://spb.rt.ru/support/hometv/setting/instructions", "prob": 0.46150583028793335}]
+
+-----------
+
+
+answer:[{"id": "15", "result": "https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television", "prob": 0.9945328235626221}]
+
+-----------
+
+
+answer:[{"id": "16", "result": "https://spb.rt.ru/support/internet/diagnostics/low-speed-internet", "prob": 0.6296751499176025}]
+
+-----------
+
+
+answer:[{"id": "17", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.9350289106369019}]
+
+-----------
+
+
+answer:[{"id": "19", "result": "https://spb.rt.ru/support/internet/tariff-service-management/relocation", "prob": 0.27539655566215515}]
+
+-----------
+
+
+answer:[{"id": "19", "result": "https://spb.rt.ru/support/internet/tariff-service-management/relocation", "prob": 0.27539655566215515}]
+
+-----------
+
+
+answer:[{"id": "19", "result": "https://spb.rt.ru/support/internet/tariff-service-management/relocation", "prob": 0.27539655566215515}]
+
+-----------
+
+
+answer:[{"id": "20", "result": "https://spb.rt.ru/support/internet/tariff-service-management/relocation", "prob": 0.27539655566215515}]
+
+-----------
+
+
+answer:[{"id": "21", "result": "https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan", "prob": 0.9850704669952393}]
+
+-----------
+
+
+answer:[{"id": "22", "result": "https://spb.rt.ru/support/internet/diagnostics/no-internet-access", "prob": 0.27764591574668884}]
+
+-----------
+
+
+answer:[{"id": "23", "result": "https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan", "prob": 0.27890482544898987}]
+
+-----------
+
+
+answer:[{"id": "24", "result": "https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number", "prob": 0.5765798687934875}]
+
+-----------
+
+
+answer:[{"id": "25", "result": "https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television", "prob": 0.09134213626384735}]
+
+-----------
+
+
+answer:[{"id": "26", "result": "https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/tarif/", "prob": 0.828453004360199}]
+
+-----------
+
+
+answer:[{"id": "27", "result": "https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/wave/", "prob": 0.45354899764060974}]
+
+-----------
+
+
+answer:[{"id": "28", "result": "https://spb.rt.ru/support/hometv/setting/hometv-problems", "prob": 0.858614981174469}, {"id": "29", "result": "https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number", "prob": 0.9394589066505432}, {"id": "30", "result": "https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television", "prob": 0.09134203940629959}]
+
+-----------
+
+
+answer:[{"id": "31", "result": "https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet", "prob": 0.8114975690841675}]
+

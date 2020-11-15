@@ -1,0 +1,1501 @@
+﻿;Вопрос;Тип обращения;Обращение;Ответ
+original;В данный момент мой домашний интернет снова не грузит.;Интернет;"At the moment, my home internet is not loading again.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;В настоящий момент мой домашний интернет снова не загружается.;Интернет;"At the moment, my home internet is not loading again.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;На данный момент интернет в моем доме снова не загружается.;Интернет;"At the moment, my home internet is not loading again.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Доброе утро! Нет интернета.;Интернет;"Good morning! No Internet.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Доброе утро! Нет интернета.;Интернет;"Good morning! No Internet.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;доброе утро! Нет интернета.;Интернет;"Good morning! No Internet.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Добрый день, скорость интернета упала, в чем может быть проблема?;Интернет;"Good afternoon, internet speed has dropped, what could be the problem?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_ang;Добрый день, упала скорость интернета, в чем может быть проблема?;Интернет;"Good afternoon, internet speed has dropped, what could be the problem?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_arab;Добрый вечер, скорость интернета упала, в чем проблема?;Интернет;"Good afternoon, internet speed has dropped, what could be the problem?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+original;ноутбук не работает в сети пишет соединение ограниченно;Интернет;"the laptop does not work on the network writes the connection is limited
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;ноут не работает в сети пишет соединение ограничено;Интернет;"the laptop does not work on the network writes the connection is limited
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Ноутбук не работает в сети пишет подключение ограничено;Интернет;"the laptop does not work on the network writes the connection is limited
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Здравствуйте, можно ли скорость интернета увеличить?;Интернет;"Hello, is it possible to increase the speed of the Internet?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_ang;Здравствуйте, а можно ли увеличить скорость интернета?;Интернет;"Hello, is it possible to increase the speed of the Internet?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_arab;Здравствуйте, а можно ли увеличить скорость интернета?;Интернет;"Hello, is it possible to increase the speed of the Internet?
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+original;Интернет не видит одно устройство хотя остальные видят;Интернет;"The Internet does not see one device, although the rest can see
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Интернет не видит одно устройство, хотя остальные могут видеть;Интернет;"The Internet does not see one device, although the rest can see
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Интернет не видит ни одного устройства, хотя другие могут его видеть;Интернет;"The Internet does not see one device, although the rest can see
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;День добрый,подскажите,почему роутер постоянно отключает вайфай?;Интернет;"Good afternoon, tell me why the router constantly turns off the Wi-Fi?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Добрый день, подскажите, почему роутер постоянно отключает Wi-Fi?;Интернет;"Good afternoon, tell me why the router constantly turns off the Wi-Fi?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Добрый вечер, подскажите, а почему у меня роутер постоянно отключает Wi-Fi?;Интернет;"Good afternoon, tell me why the router constantly turns off the Wi-Fi?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Пополнили счёт, но интернет не подключился.;Интернет;"We replenished the account, but the Internet was not connected.
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+from_ang;Мы пополнили счет, но интернет не был подключен.;Интернет;"We replenished the account, but the Internet was not connected.
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+from_arab;Мы добавили учетную запись, но интернет не был подключен.;Интернет;"We replenished the account, but the Internet was not connected.
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+original;Не работает интернет на компьютере, модем показывает только 3 сигнала;Интернет;"The Internet does not work on the computer, the modem shows only 3 signals
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_ang;Интернет на компьютере не работает, модем показывает всего 3 сигнала;Интернет;"The Internet does not work on the computer, the modem shows only 3 signals
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_arab;Интернет на компьютере не работает, а модем отображает всего 3 сигнала;Интернет;"The Internet does not work on the computer, the modem shows only 3 signals
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+original;Здравствуйте! Не работает домашний интернет по вай фаю, почему? Модем работает, раздает.;Интернет;"Hello! Home Internet wi-fi does not work, why? The modem works, distributes.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Здравствуйте! Домашний интернет wi-fi не работает, почему? Модем работает, раздает.;Интернет;"Hello! Home Internet wi-fi does not work, why? The modem works, distributes.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Здравствуйте! Домашний wi-fi не работает, почему? Модем рабочий, раздача.;Интернет;"Hello! Home Internet wi-fi does not work, why? The modem works, distributes.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Здравствуйте. Не работает интернет. Не могли бы вы помочь.;Интернет;"Hello. Internet does not work. Could you help me.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Здравствуйте. Интернет не работает. Не могли бы вы помочь мне.;Интернет;"Hello. Internet does not work. Could you help me.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Здравствуй. Интернет не работает. вы можете мне помочь.;Интернет;"Hello. Internet does not work. Could you help me.
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Почему так быстро закончился трафик;Интернет;"Why did the traffic run out so quickly?
+";0.0
+from_ang;Почему так быстро закончился трафик?;Интернет;"Why did the traffic run out so quickly?
+";0.0
+from_arab;Почему движение было таким быстрым?;Интернет;"Why did the traffic run out so quickly?
+";0.0
+original;Можно ли мне повысить скорость интернета без замены технологии подключения;Интернет;"Can I improve my internet speed without changing the connection technology
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+from_ang;Могу ли я улучшить скорость интернета, не меняя технологию подключения;Интернет;"Can I improve my internet speed without changing the connection technology
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+from_arab;Могу ли я улучшить скорость интернета, не меняя технологию подключения?;Интернет;"Can I improve my internet speed without changing the connection technology
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+original;Здравствуйте. Интернет пропал что-то;Интернет;"Hello. Internet is missing something
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Здравствуйте. Интернет чего-то не хватает;Интернет;"Hello. Internet is missing something
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Здравствуй. В Интернете чего-то не хватает;Интернет;"Hello. Internet is missing something
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Добрый вечер! Подскажите пожалуйста текущую входящую скорость по моему лицевому счету;Интернет;"Good evening! Please tell me the current incoming speed on my personal account
+";https://spb.rt.ru/support/internet/tariff-service-management/speed-according-to-tariff-plan
+from_ang;Добрый вечер! Подскажите пожалуйста текущую скорость входящего в моем личном кабинете;Интернет;"Good evening! Please tell me the current incoming speed on my personal account
+";https://spb.rt.ru/support/internet/tariff-service-management/speed-according-to-tariff-plan
+from_arab;Добрый вечер! Подскажите пожалуйста текущую скорость входа человека в мой личный кабинет;Интернет;"Good evening! Please tell me the current incoming speed on my personal account
+";https://spb.rt.ru/support/internet/tariff-service-management/speed-according-to-tariff-plan
+original;Здравствуйте. Хотелось бы проверить скорость интернета. Вай фай вообще не грузит.;Интернет;"Hello. I would like to check the internet speed. Wi-Fi does not load at all.
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_ang;Здравствуйте. Я хочу проверить скорость интернета. Wi-Fi вообще не загружается.;Интернет;"Hello. I would like to check the internet speed. Wi-Fi does not load at all.
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+from_arab;Здравствуй. Я хочу проверить скорость своего интернета. Wi-Fi вообще не загружается.;Интернет;"Hello. I would like to check the internet speed. Wi-Fi does not load at all.
+";https://spb.rt.ru/support/internet/diagnostics/low-speed-internet
+original;Добрый вечер. Нет подключения. Прошу проверить что случилось;Интернет;"Good evening. No connection. Please check what happened
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Добрый вечер. Нет соединения. Пожалуйста, проверьте что случилось;Интернет;"Good evening. No connection. Please check what happened
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Добрый вечер. нет соединения. Пожалуйста, проверьте что случилось;Интернет;"Good evening. No connection. Please check what happened
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Здравствуйте, такая проблема, я переехал, а интернет мне перенести не могут, что делать?;Интернет;"Hello, such a problem, I have moved, but they cannot transfer the Internet to me, what should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/relocation
+from_ang;Здравствуйте, такая проблема, я переехал, но мне не могут передать интернет, что делать?;Интернет;"Hello, such a problem, I have moved, but they cannot transfer the Internet to me, what should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/relocation
+from_arab;Эй, это проблема, я переехал, но они не могут передать мне интернет, что мне делать?;Интернет;"Hello, such a problem, I have moved, but they cannot transfer the Internet to me, what should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/relocation
+original;Пропало WAN соединение. С чем это может быть связано?;Интернет;"Lost WAN connection. With what it can be connected?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Потеряно WAN-соединение. С чем это может быть связано?;Интернет;"Lost WAN connection. With what it can be connected?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;WAN-соединение потеряно. Что может быть связано?;Интернет;"Lost WAN connection. With what it can be connected?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Расскажите, пожалуйста, подробно о том, что какая разница между подключением интернета через оптоволокно или телефон?;Интернет;"Please tell us in detail what is the difference between connecting the Internet via fiber optic or telephone?
+";https://spb.rt.ru/support/internet/connect/connection-technologies
+from_ang;Расскажите, пожалуйста, подробно, в чем разница между подключением к Интернету по оптоволокну или по телефону?;Интернет;"Please tell us in detail what is the difference between connecting the Internet via fiber optic or telephone?
+";https://spb.rt.ru/support/internet/connect/connection-technologies
+from_arab;Расскажите подробнее, в чем разница между подключением к Интернету по оптоволокну или по телефону?;Интернет;"Please tell us in detail what is the difference between connecting the Internet via fiber optic or telephone?
+";https://spb.rt.ru/support/internet/connect/connection-technologies
+original;Добрый день, проблема с интернетом, не горит dsl индикатор;Интернет;"Good afternoon, problem with the Internet, dsl indicator is off
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Добрый день, проблема с интернетом, индикатор dsl не горит;Интернет;"Good afternoon, problem with the Internet, dsl indicator is off
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Добрый вечер, проблема с интернетом, индикатор dsl не горит;Интернет;"Good afternoon, problem with the Internet, dsl indicator is off
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Забыла пароль;Интернет;"Forgot the password
+";0.0
+from_ang;Забыла пароль;Интернет;"Forgot the password
+";0.0
+from_arab;Забыли свой пароль;Интернет;"Forgot the password
+";0.0
+original;Интересует услуга подключения высокоскоростного интернета в частный жилой сектор;Интернет;"Interested in the service of connecting high-speed Internet to the private residential sector
+";https://spb.rt.ru/support/internet/connect/conduct-internet-in-house
+from_ang;Заинтересованы в услуге подключения высокоскоростного интернета к частному жилому сектору;Интернет;"Interested in the service of connecting high-speed Internet to the private residential sector
+";https://spb.rt.ru/support/internet/connect/conduct-internet-in-house
+from_arab;Заинтересованы в высокоскоростном интернет-подключении для частного жилого сектора;Интернет;"Interested in the service of connecting high-speed Internet to the private residential sector
+";https://spb.rt.ru/support/internet/connect/conduct-internet-in-house
+original;Хочу менять пароль от вайфай но у меня никак не получается.;Интернет;"I want to change the password for Wi-Fi, but I can't do it.
+";0.0
+from_ang;Я хочу изменить пароль для Wi-Fi, но не могу этого сделать.;Интернет;"I want to change the password for Wi-Fi, but I can't do it.
+";0.0
+from_arab;Я хочу изменить свой пароль Wi-Fi, но не могу.;Интернет;"I want to change the password for Wi-Fi, but I can't do it.
+";0.0
+original;Здравствуйте, у нас роутер не раздает интернет. Что можно сделать?;Интернет;"Hello, our router does not distribute the Internet. What can be done?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_ang;Здравствуйте, наш роутер инет не раздает. Что можно сделать?;Интернет;"Hello, our router does not distribute the Internet. What can be done?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+from_arab;Эй, наш роутер инет не раздает. Что он может сделать?;Интернет;"Hello, our router does not distribute the Internet. What can be done?
+";https://spb.rt.ru/support/internet/diagnostics/no-internet-access
+original;Здравствуйте, мне нужна большая скорость, 100 мб не устраивает. Что мне делать?;Интернет;"Hello, I need high speed, 100 mb does not suit me. What should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+from_ang;Здравствуйте, нужна высокая скорость, 100 мб меня не устраивает. Что я должен делать?;Интернет;"Hello, I need high speed, 100 mb does not suit me. What should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+from_arab;Привет, мне нужна скоростная 100 мега, которая меня не устраивает. Что я должен делать?;Интернет;"Hello, I need high speed, 100 mb does not suit me. What should I do?
+";https://spb.rt.ru/support/internet/tariff-service-management/increase-internet-speed
+original;почему не могу подключить wi-fi к телефону;Интернет;"why can't I connect wi-fi to my phone
+";https://spb.rt.ru/support/internet/setting/everything-about-wifi-and-speed
+from_ang;почему я не могу подключить Wi-Fi к моему телефону;Интернет;"why can't I connect wi-fi to my phone
+";https://spb.rt.ru/support/internet/setting/everything-about-wifi-and-speed
+from_arab;Почему я не могу подключить к телефону Wi-Fi;Интернет;"why can't I connect wi-fi to my phone
+";https://spb.rt.ru/support/internet/setting/everything-about-wifi-and-speed
+original;Как изменить тариф?;Интернет;"How can I change the tariff?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+from_ang;Как я могу изменить тариф?;Интернет;"How can I change the tariff?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+from_arab;Как я могу изменить тариф?;Интернет;"How can I change the tariff?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+original;Как оплатить?;Интернет;"How to pay?
+";https://spb.rt.ru/support/internet/payment/available-payment-methods
+from_ang;Как платить?;Интернет;"How to pay?
+";https://spb.rt.ru/support/internet/payment/available-payment-methods
+from_arab;Как платить?;Интернет;"How to pay?
+";https://spb.rt.ru/support/internet/payment/available-payment-methods
+original;Как потратить бонусы?;Интернет;"How to spend bonuses?
+";0.0
+from_ang;Как потратить бонусы?;Интернет;"How to spend bonuses?
+";0.0
+from_arab;Как расходуются награды?;Интернет;"How to spend bonuses?
+";0.0
+original;Каки меодели роутеров?;Интернет;"What are the router models?
+";0.0
+from_ang;Какие модели роутеров?;Интернет;"What are the router models?
+";0.0
+from_arab;Какие бывают модели роутера?;Интернет;"What are the router models?
+";0.0
+original;Как мне узнать свой логин услуги и пароль при условии, что договор был утерен.;Интернет;"How can I find out my service login and password, provided that the contract has been lost.
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+from_ang;Как узнать логин и пароль от услуги, если договор утерян.;Интернет;"How can I find out my service login and password, provided that the contract has been lost.
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+from_arab;Как узнать логин и пароль к услуге в случае разрыва договора.;Интернет;"How can I find out my service login and password, provided that the contract has been lost.
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+original;Можно сменить пароль?;Интернет;"Can I change my password?
+";0.0
+from_ang;Могу ли я изменить свой пароль?;Интернет;"Can I change my password?
+";0.0
+from_arab;Могу ли я изменить свой пароль?;Интернет;"Can I change my password?
+";0.0
+original;Как восстановить логин/пароль для интернета?;Интернет;"How do I recover my login / password for the Internet?
+";0.0
+from_ang;Как мне восстановить логин / пароль от интернета?;Интернет;"How do I recover my login / password for the Internet?
+";0.0
+from_arab;Как я могу восстановить свою регистрационную информацию / пароль из Интернета?;Интернет;"How do I recover my login / password for the Internet?
+";0.0
+original;могу я запросить обратный звонок от оператора?;Интернет;"can i request a call back from the operator?
+";0.0
+from_ang;могу ли я заказать обратный звонок у оператора?;Интернет;"can i request a call back from the operator?
+";0.0
+from_arab;Могу ли я заказать обратный звонок у оператора?;Интернет;"can i request a call back from the operator?
+";0.0
+original;Забыла логин и пароль от входа.;Интернет;"Forgot username and password.
+";0.0
+from_ang;Забыли логин и пароль.;Интернет;"Forgot username and password.
+";0.0
+from_arab;Вы забыли свой логин и пароль?;Интернет;"Forgot username and password.
+";0.0
+original;как можно восстановить пароль?;Интернет;"how can i recover my password?
+";0.0
+from_ang;как я могу восстановить свой пароль?;Интернет;"how can i recover my password?
+";0.0
+from_arab;Как я могу восстановить свой пароль?;Интернет;"how can i recover my password?
+";0.0
+original;Можно ли получить электронную копию договора?;Интернет;"Can I get an electronic copy of the agreement?
+";0.0
+from_ang;Могу ли я получить электронную копию договора?;Интернет;"Can I get an electronic copy of the agreement?
+";0.0
+from_arab;Могу ли я получить электронную копию соглашения?;Интернет;"Can I get an electronic copy of the agreement?
+";0.0
+original;Как узнать свой логин и пароль?;Интернет;"How to find out your username and password?
+";0.0
+from_ang;Как узнать свой логин и пароль?;Интернет;"How to find out your username and password?
+";0.0
+from_arab;Как узнать логин и пароль?;Интернет;"How to find out your username and password?
+";0.0
+original;Есть возможность обновить Настройки сети?;Интернет;"Is it possible to update the Network Settings?
+";0.0
+from_ang;Можно ли обновить настройки сети?;Интернет;"Is it possible to update the Network Settings?
+";0.0
+from_arab;Могу ли я обновить настройки сети?;Интернет;"Is it possible to update the Network Settings?
+";0.0
+original;Забыли пароль от Wi-Fi;Интернет;"Forgot Wi-Fi password
+";0.0
+from_ang;Забыли пароль Wi-Fi;Интернет;"Forgot Wi-Fi password
+";0.0
+from_arab;Я забыл свой пароль Wi-Fi;Интернет;"Forgot Wi-Fi password
+";0.0
+original;Хотел бы узнать, имеется ли возможность замены роутера на более современный, с возможностью охвата сети wi-fi всего помещения;Интернет;"I would like to know if it is possible to replace the router with a more modern one, with the ability to cover the entire room with a wi-fi
+";https://spb.rt.ru/support/internet/connect/internet-connection-equipment
+from_ang;Хотелось бы узнать, можно ли заменить роутер на более современный, с возможностью накрыть всю комнату wi-fi;Интернет;"I would like to know if it is possible to replace the router with a more modern one, with the ability to cover the entire room with a wi-fi
+";https://spb.rt.ru/support/internet/connect/internet-connection-equipment
+from_arab;Хотелось бы узнать, можно ли заменить роутер на более современный, с возможностью покрыть всю комнату wi-fi;Интернет;"I would like to know if it is possible to replace the router with a more modern one, with the ability to cover the entire room with a wi-fi
+";https://spb.rt.ru/support/internet/connect/internet-connection-equipment
+original;Доброй ночи! Хочу узнать свой пароль для PPPoE подключения;Интернет;"Goodnight! I want to know my password for PPPoE connection
+";0.0
+from_ang;Спокойной ночи! Я хочу знать свой пароль для PPPoE-соединения;Интернет;"Goodnight! I want to know my password for PPPoE connection
+";0.0
+from_arab;спокойной ночи! Я хочу знать свой пароль PPPoE;Интернет;"Goodnight! I want to know my password for PPPoE connection
+";0.0
+original;Где посмотреть логин услуги?;Интернет;"Where can I see the service login?
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+from_ang;Где посмотреть логин службы?;Интернет;"Where can I see the service login?
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+from_arab;Где я могу увидеть логин службы?;Интернет;"Where can I see the service login?
+";https://spb.rt.ru/support/internet/contract/personal-account-number-under-contract
+original;Здравствуйте! Интернет не работает. Сегодня оплатил;Интернет;"Hello! Internet does not work. Paid today
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+from_ang;Здравствуйте! Интернет не работает. Оплачено сегодня;Интернет;"Hello! Internet does not work. Paid today
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+from_arab;Здравствуйте! Интернет не работает. Оплата была произведена сегодня;Интернет;"Hello! Internet does not work. Paid today
+";https://spb.rt.ru/support/internet/payment/payment-received-but-no-internet
+original;Как будет происходить переход на игровой тариф, если я сейчас оставлю заявку;Интернет;"How will the transition to the gaming tariff take place if I leave a request now?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+from_ang;Как будет происходить переход на игровой тариф, если я оставлю заявку сейчас?;Интернет;"How will the transition to the gaming tariff take place if I leave a request now?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+from_arab;Как будет переход на игровые тарифы, если я оставлю заказ сейчас?;Интернет;"How will the transition to the gaming tariff take place if I leave a request now?
+";https://spb.rt.ru/support/internet/tariff-service-management/change-your-plan
+original;Добрый вечер Как узнать пароль от вай фай?;Интернет;"Good evening How do I find out the password for Wi-Fi?
+";0.0
+from_ang;Добрый вечер Как узнать пароль от Wi-Fi?;Интернет;"Good evening How do I find out the password for Wi-Fi?
+";0.0
+from_arab;Добрый вечер, как мне узнать пароль от Wi-Fi?;Интернет;"Good evening How do I find out the password for Wi-Fi?
+";0.0
+original;Здравствуйте. Хочу оформить услугу гарантия плюс на WiFi-роутер;Интернет;"Hello. I would like to order the service guarantee plus for a WiFi router
+";0.0
+from_ang;Здравствуйте. Я хочу заказать услугу плюс гарантия на WiFi роутер;Интернет;"Hello. I would like to order the service guarantee plus for a WiFi router
+";0.0
+from_arab;Здравствуй. Я хочу заказать услугу, а также гарантию на мой WiFi роутер;Интернет;"Hello. I would like to order the service guarantee plus for a WiFi router
+";0.0
+original;Где и как отключить антивирус?;Интернет;"Where and how to disable the antivirus?
+";https://spb.rt.ru/support/internet/tariff-service-management/disable-service-without-contract-terminating
+from_ang;Где и как отключить антивирус?;Интернет;"Where and how to disable the antivirus?
+";https://spb.rt.ru/support/internet/tariff-service-management/disable-service-without-contract-terminating
+from_arab;Где и как отключить антивирус?;Интернет;"Where and how to disable the antivirus?
+";https://spb.rt.ru/support/internet/tariff-service-management/disable-service-without-contract-terminating
+original;Как перенастроить другой роутер к подключению;Интернет;"How to reconfigure another router to connect
+";0.0
+from_ang;Как перенастроить другой роутер для подключения;Интернет;"How to reconfigure another router to connect
+";0.0
+from_arab;Как перенастроить другой роутер для подключения;Интернет;"How to reconfigure another router to connect
+";0.0
+original;как и где смотреть бесплатный Wink;ТВ;"how and where to watch free Wink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_ang;как и где смотреть бесплатно Wink;ТВ;"how and where to watch free Wink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_arab;Как и где смотреть бесплатно?;ТВ;"how and where to watch free Wink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+original;У меня не работает винк пишет что нужна инициализация! Что делать?;ТВ;"Vink does not work for me writes that initialization is needed! What to do?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Винк у меня не работает пишет, что нужна инициализация! Что делать?;ТВ;"Vink does not work for me writes that initialization is needed! What to do?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Винк у меня не работает, пишет, что форматирование требуется! что я должен делать?;ТВ;"Vink does not work for me writes that initialization is needed! What to do?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Здравствуйте, wink не работает, ошибка при инициализации приложения;ТВ;"Hello wink not working, error while initializing the application
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Привет подмигнуть не работает, ошибка при инициализации приложения;ТВ;"Hello wink not working, error while initializing the application
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Привет, не работает, ошибка инициализации приложения;ТВ;"Hello wink not working, error while initializing the application
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Добрый день! Wink ошибка сервера;ТВ;"Good afternoon! Wink server error
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Добрый день! Ошибка сервера Wink;ТВ;"Good afternoon! Wink server error
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Добрый вечер! Ошибка сервера Wink;ТВ;"Good afternoon! Wink server error
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Как увидеть на экране смарт Самсунг приложение Wink?;ТВ;"How to see the smart Samsung Wink app on the screen?
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Как увидеть на экране умное приложение Samsung Wink?;ТВ;"How to see the smart Samsung Wink app on the screen?
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Каким вы видите приложение Samsung Wink smart на экране?;ТВ;"How to see the smart Samsung Wink app on the screen?
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;Где в личном кабинете увидеть промокод на wink;ТВ;"Where to see the promo code on wink in your account
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Где увидеть промокод при подмигивании в личном кабинете;ТВ;"Where to see the promo code on wink in your account
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Где увидеть промокод, когда подмигнешь в свой аккаунт;ТВ;"Where to see the promo code on wink in your account
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;Здравствуйте, скажите почему при подключении wink пишет что промокод просрочен;ТВ;"Hello, tell me why, when connecting, wink writes that the promo code has expired
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Здравствуйте, подскажите почему при подключении wink пишет, что срок действия промокода истек;ТВ;"Hello, tell me why, when connecting, wink writes that the promo code has expired
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Эй, подскажите почему при звонке wink пишет, что срок действия промокода истек;ТВ;"Hello, tell me why, when connecting, wink writes that the promo code has expired
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;Подскажите сколько будет стоить приложение Винк;ТВ;"Tell me how much the Vink app will cost
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_ang;Подскажите сколько будет стоить приложение Винк;ТВ;"Tell me how much the Vink app will cost
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_arab;Подскажите сколько будет стоить приложение Винк;ТВ;"Tell me how much the Vink app will cost
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+original;Доброе утро, как узнать свой логин в wink;ТВ;"Good morning, how to find out your wink login
+";None
+from_ang;Доброе утро, как узнать свой логин подмигнуть;ТВ;"Good morning, how to find out your wink login
+";None
+from_arab;Доброе утро, как узнать свой логин?;ТВ;"Good morning, how to find out your wink login
+";None
+original;Здравствуйте как подключить Wink?;ТВ;"Hello, how to connect Wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_ang;Здравствуйте, как подключить Wink?;ТВ;"Hello, how to connect Wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_arab;Привет, а как подключить Wink?;ТВ;"Hello, how to connect Wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+original;Здравствуйте. В личном кабинете есть промокод на Wink TV попробовали его ввести, пишет что просрочен;ТВ;"Hello. In the personal account there is a promotional code on Wink TV tried to enter it, writes that it is expired
+";None
+from_ang;Здравствуйте. В личном кабинете есть промокод на Wink TV пробовал ввести, пишет что истек;ТВ;"Hello. In the personal account there is a promotional code on Wink TV tried to enter it, writes that it is expired
+";None
+from_arab;Здравствуй. В моем аккаунте есть промокод на Wink TV, который я пытался ввести, написав, что срок его действия истек;ТВ;"Hello. In the personal account there is a promotional code on Wink TV tried to enter it, writes that it is expired
+";None
+original;Добрый день, подскажите может есть какой промокод на телевидение wink?;ТВ;"Good afternoon, tell me, can you have a promotional code for wink TV?
+";None
+from_ang;Добрый день, подскажите, а можно промокод на Wink TV?;ТВ;"Good afternoon, tell me, can you have a promotional code for wink TV?
+";None
+from_arab;Подскажите, добрый вечер, можно промокод на Wink TV?;ТВ;"Good afternoon, tell me, can you have a promotional code for wink TV?
+";None
+original;как подключить винк;ТВ;"how to connect vink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_ang;как подключить винк;ТВ;"how to connect vink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_arab;Как подключить винк;ТВ;"how to connect vink
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+original;подключил wink акция на год какой промокод вводить в приложении;ТВ;"connected wink action for a year what promo code to enter in the application
+";None
+from_ang;подключил акцию на год какой промокод ввести в приложение;ТВ;"connected wink action for a year what promo code to enter in the application
+";None
+from_arab;Привязка годовой акции к промокоду для входа в приложение;ТВ;"connected wink action for a year what promo code to enter in the application
+";None
+original;Здравствуйте, у меня wink на год. Хочу подключить на смарт тв. Но забыл промокод;ТВ;"Hello, I have a wink for a year. I want to connect to smart TV. But I forgot the promo code
+";None
+from_ang;Здравствуйте, уже год подмигиваю. Я хочу подключиться к смарт-ТВ. Но я забыл промокод;ТВ;"Hello, I have a wink for a year. I want to connect to smart TV. But I forgot the promo code
+";None
+from_arab;Эй, я уже год подмигиваю. Я хочу подключиться к смарт-ТВ. Но я забыл промокод;ТВ;"Hello, I have a wink for a year. I want to connect to smart TV. But I forgot the promo code
+";None
+original;Добрый день, скажите пожалуйста, как на планшете отключить опцию Wink;ТВ;"Good afternoon, please tell me how to disable the Wink option on the tablet
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_ang;Добрый день, подскажите пожалуйста как отключить опцию Wink на планшете;ТВ;"Good afternoon, please tell me how to disable the Wink option on the tablet
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_arab;Добрый вечер, подскажите пожалуйста как отключить опцию Wink на моем планшете;ТВ;"Good afternoon, please tell me how to disable the Wink option on the tablet
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+original;Добрый день! Приходила информационное смс о доступе а телевидение Wink о доступе 5000 фильмам. Это нужно как то подключить или оно автоматом уже подключено?;ТВ;"Good afternoon! There was an informational SMS about access to Wink TV about access to 5000 films. Does it need to be connected somehow or is it already connected automatically?
+";None
+from_ang;Добрый день! Пришло информационное SMS о доступе к Wink TV о доступе к 5000 фильмам. Его нужно как-то подключать или он уже подключен автоматически?;ТВ;"Good afternoon! There was an informational SMS about access to Wink TV about access to 5000 films. Does it need to be connected somehow or is it already connected automatically?
+";None
+from_arab;Добрый вечер! Я получил информационное текстовое сообщение о доступе к Wink TV о доступе к 5000 фильмам. Вам нужно как-то подключиться или они действительно подключаются автоматически?;ТВ;"Good afternoon! There was an informational SMS about access to Wink TV about access to 5000 films. Does it need to be connected somehow or is it already connected automatically?
+";None
+original;Как вернуть обычное телевидение вместо Wink?;ТВ;"How to get regular TV back instead of Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_ang;Как вернуть обычный ТВ вместо Wink?;ТВ;"How to get regular TV back instead of Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_arab;Как восстановить нормальный ТВ вместо подмигивания?;ТВ;"How to get regular TV back instead of Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+original;Как узнать баланс;ТВ;"How to find out the balance
+";None
+from_ang;Как узнать баланс;ТВ;"How to find out the balance
+";None
+from_arab;Как узнать баланс;ТВ;"How to find out the balance
+";None
+original;Скажите пожалуйста, почему на wink есть Лёд 2, а для просмотра не доступен?;ТВ;"Please tell me why there is Ice 2 on wink, but it is not available for viewing?
+";https://spb.rt.ru/support/hometv/control/interactive-tv-package-what-is-included
+from_ang;Подскажите пожалуйста, почему на подмигивании стоит Ice 2, но он недоступен для просмотра?;ТВ;"Please tell me why there is Ice 2 on wink, but it is not available for viewing?
+";https://spb.rt.ru/support/hometv/control/interactive-tv-package-what-is-included
+from_arab;Подскажите пожалуйста, почему в мгновение ока есть Ice 2, но он недоступен для просмотра?;ТВ;"Please tell me why there is Ice 2 on wink, but it is not available for viewing?
+";https://spb.rt.ru/support/hometv/control/interactive-tv-package-what-is-included
+original;Здравствуйте, скажите, пожалуйста, видеосервис wink можно подключить к недорогому маленькому телевизору малоизвестной фирмы?;ТВ;"Hello, please tell me, can the wink video service be connected to an inexpensive small TV of a little-known company?
+";https://spb.rt.ru/support/hometv/connect/interactive-tv-connection-technologies
+from_ang;Здравствуйте, подскажите пожалуйста, а можно ли подключить видео сервис wink к недорогому маленькому телевизору малоизвестной компании?;ТВ;"Hello, please tell me, can the wink video service be connected to an inexpensive small TV of a little-known company?
+";https://spb.rt.ru/support/hometv/connect/interactive-tv-connection-technologies
+from_arab;Привет, подскажите пожалуйста, а можно ли подключить wink video сервис к дешевому мини-телевизору неизвестной компании?;ТВ;"Hello, please tell me, can the wink video service be connected to an inexpensive small TV of a little-known company?
+";https://spb.rt.ru/support/hometv/connect/interactive-tv-connection-technologies
+original;Сколько стоит винк;ТВ;"How much is a vink
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_ang;Сколько стоит винк;ТВ;"How much is a vink
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_arab;Как поживаешь?;ТВ;"How much is a vink
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+original;Здравствуйте. Как на Wink отключить автопродление подписок?;ТВ;"Hello. How do I turn off auto-renewal on Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_ang;Здравствуйте. Как отключить автоматическое продление на Wink?;ТВ;"Hello. How do I turn off auto-renewal on Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_arab;Здравствуй. Как отключить автоматическое продление на Wink?;ТВ;"Hello. How do I turn off auto-renewal on Wink?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+original;Здравствуйте,подскажите, как посмотреть в wink список избранное?;ТВ;"Hello, tell me how to view the list of favorites in wink?
+";https://spb.rt.ru/support/hometv/reference-information/user-guides
+from_ang;Здравствуйте, подскажите, как в подмигнуть список избранного?;ТВ;"Hello, tell me how to view the list of favorites in wink?
+";https://spb.rt.ru/support/hometv/reference-information/user-guides
+from_arab;Здравствуйте, подскажите как подмигнуть список избранных?;ТВ;"Hello, tell me how to view the list of favorites in wink?
+";https://spb.rt.ru/support/hometv/reference-information/user-guides
+original;Как смотреть винк тв на телефоне?;ТВ;"How to watch Vink TV on your phone?
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Как смотреть Винк ТВ на телефоне?;ТВ;"How to watch Vink TV on your phone?
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Как смотреть Винк ТВ на телефоне?;ТВ;"How to watch Vink TV on your phone?
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;где в кабинете можно посмотреть про Винк;ТВ;"where in the office you can see about Vink
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_ang;где в офисе можно посмотреть про Винка;ТВ;"where in the office you can see about Vink
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_arab;Где можно посмотреть в офисе про Винка;ТВ;"where in the office you can see about Vink
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+original;Здравствуйте, как войти на сервис wink, через телевизор;ТВ;"Hello, how to enter the wink service through the TV
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Здравствуйте, как зайти в сервис подмигивания через ТВ;ТВ;"Hello, how to enter the wink service through the TV
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Эй, как попасть в службу подмигивания по ТВ;ТВ;"Hello, how to enter the wink service through the TV
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;Здравствуйте услуга Wink что это?;ТВ;"Hello Wink service what is it?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_ang;Сервис Hello Wink, что это такое?;ТВ;"Hello Wink service what is it?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_arab;Привет, сервис это какой?;ТВ;"Hello Wink service what is it?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+original;Добрый день подскажите как воспользоваться wink?;ТВ;"Good afternoon, tell me how to use wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_ang;Добрый день, подскажите как пользоваться wink?;ТВ;"Good afternoon, tell me how to use wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+from_arab;Добрый вечер, подскажите, как подмигнуть?;ТВ;"Good afternoon, tell me how to use wink?
+";https://spb.rt.ru/support/hometv/connect/connect-tv-to-house-apartment
+original;Добрый день. Как насстроить Wink на ноутбуке;ТВ;"Good afternoon. How to set up Wink on a laptop
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_ang;Добрый день. Как настроить Wink на ноутбуке;ТВ;"Good afternoon. How to set up Wink on a laptop
+";https://spb.rt.ru/support/hometv/setting/instructions
+from_arab;Добрый вечер. Как настроить Wink на ноутбуке;ТВ;"Good afternoon. How to set up Wink on a laptop
+";https://spb.rt.ru/support/hometv/setting/instructions
+original;Как узнать свой логин и пароль?;ТВ;"How to find out your username and password?
+";None
+from_ang;Как узнать свой логин и пароль?;ТВ;"How to find out your username and password?
+";None
+from_arab;Как узнать логин и пароль?;ТВ;"How to find out your username and password?
+";None
+original;Не могу восстановить пароль, что делать?;ТВ;"I can't recover my password, what should I do?
+";None
+from_ang;Я не могу восстановить свой пароль, что мне делать?;ТВ;"I can't recover my password, what should I do?
+";None
+from_arab;Я не могу восстановить свой пароль, что мне делать?;ТВ;"I can't recover my password, what should I do?
+";None
+original;Какую сумму в месяц составляет мой тарифный план?;ТВ;"What is the monthly amount of my tariff plan?
+";https://spb.rt.ru/support/hometv/control/current-tariff-plan-for-contract
+from_ang;Какая у меня ежемесячная сумма тарифного плана?;ТВ;"What is the monthly amount of my tariff plan?
+";https://spb.rt.ru/support/hometv/control/current-tariff-plan-for-contract
+from_arab;Какова сумма моего ежемесячного плана?;ТВ;"What is the monthly amount of my tariff plan?
+";https://spb.rt.ru/support/hometv/control/current-tariff-plan-for-contract
+original;Как изменить формат экрана я не могу пользоваться меню?;ТВ;"How do I change the screen format? I can't use the menu?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Как изменить формат экрана? Я не могу пользоваться меню?;ТВ;"How do I change the screen format? I can't use the menu?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Как я могу изменить формат экрана? Не можете пользоваться меню?;ТВ;"How do I change the screen format? I can't use the menu?
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Здравствуйте! Я пользуюсь вашим интернетом и тв wink, переезжаю в другую квартиру и хотела бы, что мне переподключили ваши услуги в новой квартире;ТВ;"Hello! I use your internet and TV wink, move to another apartment and would like to have your services reconnected to me in a new apartment
+";https://spb.rt.ru/support/hometv/control/relocation
+from_ang;Здравствуйте! Я пользуюсь вашим интернетом и телевизором, перехожу в другую квартиру и хочу, чтобы ваши услуги были подключены ко мне в новой квартире;ТВ;"Hello! I use your internet and TV wink, move to another apartment and would like to have your services reconnected to me in a new apartment
+";https://spb.rt.ru/support/hometv/control/relocation
+from_arab;Здравствуйте! Я пользуюсь вашим интернетом и телевизором, переезжаю в другую квартиру и хочу, чтобы ваши услуги были подключены ко мне в моей новой квартире;ТВ;"Hello! I use your internet and TV wink, move to another apartment and would like to have your services reconnected to me in a new apartment
+";https://spb.rt.ru/support/hometv/control/relocation
+original;Добрый день, хочу отключить wink-тв;ТВ;"Good afternoon, I want to turn off wink-tv
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_ang;Добрый день хочу выключить wink-tv;ТВ;"Good afternoon, I want to turn off wink-tv
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_arab;Добрый вечер хочу выключить Wink-tv;ТВ;"Good afternoon, I want to turn off wink-tv
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+original;Добрый день! Есть ли бесплатный пробный wink?;ТВ;"Good afternoon! Is there a free trial wink available?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_ang;Добрый день! Доступна ли бесплатная пробная версия?;ТВ;"Good afternoon! Is there a free trial wink available?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_arab;Добрый вечер! Доступна ли бесплатная пробная версия?;ТВ;"Good afternoon! Is there a free trial wink available?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+original;Мне пришёл код Wink куда его вводить;ТВ;"I received the Wink code where to enter it
+";None
+from_ang;Я получил код Wink, где его ввести;ТВ;"I received the Wink code where to enter it
+";None
+from_arab;Я получил код Wink там, где я его ввел;ТВ;"I received the Wink code where to enter it
+";None
+original;Добрый день. У меня у личном кабинете есть промокод на wink. При попытке его активировать пишет что промокод просрочен.;ТВ;"Good afternoon. I have a promo code for wink in my personal account. When you try to activate it, it says that the promotional code is expired.
+";None
+from_ang;Добрый день. У меня в личном кабинете есть промокод на подмигивание. При попытке активировать пишет, что срок действия промокода истек.;ТВ;"Good afternoon. I have a promo code for wink in my personal account. When you try to activate it, it says that the promotional code is expired.
+";None
+from_arab;Добрый вечер. У меня в личном кабинете есть промокод Wink. При попытке активации появляется сообщение о том, что срок действия промокода истек.;ТВ;"Good afternoon. I have a promo code for wink in my personal account. When you try to activate it, it says that the promotional code is expired.
+";None
+original;Здравствуйте . Подскажите стоимость Wink на год;ТВ;"Hello . Tell me the cost of Wink for a year
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_ang;Здравствуйте . Подскажите стоимость Wink на год;ТВ;"Hello . Tell me the cost of Wink for a year
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_arab;Здравствуйте . Подскажите стоимость Wink на год;ТВ;"Hello . Tell me the cost of Wink for a year
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+original;Здравствуйте. Подскажите пожалуйста за wink tv будет сниматься отдельная плата или нет? Я её скачала на телевизор.;ТВ;"Hello. Can you please tell me if a separate fee will be charged for wink TV or not? I downloaded it to the TV.
+";None
+from_ang;Здравствуйте. Подскажите, пожалуйста, будет ли взиматься отдельная плата за Wink TV или нет? Скачал на телевизор.;ТВ;"Hello. Can you please tell me if a separate fee will be charged for wink TV or not? I downloaded it to the TV.
+";None
+from_arab;Здравствуй. Подскажите, будет ли плата за Wink TV отдельно или нет? Загрузите их в телевизор.;ТВ;"Hello. Can you please tell me if a separate fee will be charged for wink TV or not? I downloaded it to the TV.
+";None
+original;Как отключить wink на телевизоре и вернутся в старый интерфейс?;ТВ;"How do I disable wink on the TV and return to the old interface?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_ang;Как отключить подмигивание на телевизоре и вернуться к старому интерфейсу?;ТВ;"How do I disable wink on the TV and return to the old interface?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+from_arab;Как отключить мерцание телевизора и вернуться к старому интерфейсу?;ТВ;"How do I disable wink on the TV and return to the old interface?
+";https://spb.rt.ru/support/hometv/control/temporarily-block-service
+original;Здравствуйте. Подскажите что такое Винк?;ТВ;"Hello. Tell me what is Vink?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_ang;Здравствуйте. Подскажите что такое Винк?;ТВ;"Hello. Tell me what is Vink?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+from_arab;Здравствуй. Скажите, какой у вас финк?;ТВ;"Hello. Tell me what is Vink?
+";https://spb.rt.ru/support/hometv/connect/what-is-interactive-tv
+original;телеканалы услуга платная?;ТВ;"TV channels is the service paid?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_ang;Телеканалы услуга платная?;ТВ;"TV channels is the service paid?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+from_arab;Платная ли услуга для телеканалов?;ТВ;"TV channels is the service paid?
+";https://spb.rt.ru/support/hometv/connect/tariffs-for-connecting-television
+original;Как зайти в Wink?;ТВ;"How do I log into Wink?
+";None
+from_ang;Как мне войти в Wink?;ТВ;"How do I log into Wink?
+";None
+from_arab;Как мне войти в Wink?;ТВ;"How do I log into Wink?
+";None
+original;подскажите пароль для приложения Интерактивное ТВ через мультискрин;ТВ;"prompt password for Interactive TV application via multiscreen
+";None
+from_ang;запрашивать пароль для приложения Интерактивное ТВ через мультиэкран;ТВ;"prompt password for Interactive TV application via multiscreen
+";None
+from_arab;Требовать пароль для приложения интерактивного телевидения на нескольких экранах;ТВ;"prompt password for Interactive TV application via multiscreen
+";None
+original;Здравствуйте! Почему не работает тв и интернет;ТВ;"Hello! Why TV and Internet do not work
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Здравствуйте! Почему не работают ТВ и Интернет;ТВ;"Hello! Why TV and Internet do not work
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Здравствуйте! Почему не работает ТВ и Интернет;ТВ;"Hello! Why TV and Internet do not work
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Можно вызвать специалиста техподдержки. Не работает одна из приставок.;ТВ;"You can call a technical support specialist. One of the attachments does not work.
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Вы можете позвонить специалисту техподдержки. Одно из вложений не работает.;ТВ;"You can call a technical support specialist. One of the attachments does not work.
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Вы можете обратиться к специалисту технической поддержки. Вложение не работает.;ТВ;"You can call a technical support specialist. One of the attachments does not work.
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Где взять логин для входа в приложение винк?;ТВ;"Where can I get a login to enter the Vink app?
+";None
+from_ang;Где взять логин для входа в приложение Винк?;ТВ;"Where can I get a login to enter the Vink app?
+";None
+from_arab;Где я могу получить данные для входа в приложение Vink?;ТВ;"Where can I get a login to enter the Vink app?
+";None
+original;Здравствуйте. Отсутсвует интернет и iptv. Индикатор dsl не горит. Перезагрузка роутера не помогла;ТВ;"Hello. There is no internet and iptv. The dsl indicator is off. Rebooting the router did not help
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_ang;Здравствуйте. Нет интернета и iptv. Индикатор DSL не горит. Перезагрузка роутера не помогла;ТВ;"Hello. There is no internet and iptv. The dsl indicator is off. Rebooting the router did not help
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+from_arab;Здравствуй. Нет интернета и iptv. Индикатор DSL не горит. Перезагрузка роутера не помогла;ТВ;"Hello. There is no internet and iptv. The dsl indicator is off. Rebooting the router did not help
+";https://spb.rt.ru/support/hometv/setting/hometv-problems
+original;Здравствуйте, как теперь в приложении посмотреть остаток по пакетам на мобильной связи?;Мобильная связь;"Hello, how now in the application to see the balance of packages on a mobile connection?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Здравствуйте, а как теперь посмотреть остальные пакеты по мобильному подключению в приложении?;Мобильная связь;"Hello, how now in the application to see the balance of packages on a mobile connection?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Здравствуйте, как теперь посмотреть в приложении остаток пакетов на мобильной связи?;Мобильная связь;"Hello, how now in the application to see the balance of packages on a mobile connection?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Добрый вечер я сегодня вместо счета положил на мобильную связь, как перевести деньги на счет;Мобильная связь;"Good evening, today, instead of an account, I put it on a mobile connection, how to transfer money to an account
+";None
+from_ang;Добрый вечер, сегодня вместо аккаунта поставил мобильную связь, как перевести деньги на счет;Мобильная связь;"Good evening, today, instead of an account, I put it on a mobile connection, how to transfer money to an account
+";None
+from_arab;Добрый вечер, сегодня вместо аккаунта поставил на мобильную связь, как перевести деньги на счет;Мобильная связь;"Good evening, today, instead of an account, I put it on a mobile connection, how to transfer money to an account
+";None
+original;Здравствуйте.! Пытаюсь, после того, как слетели все настройки в приложении, привязать мобильную связь. Код подтверждения не приходит;Мобильная связь;"Hello.! I am trying, after all the settings in the application have disappeared, to bind the mobile connection. Verification code does not come
+";https://spb.rt.ru/support/mobile/control/services
+from_ang;Здравствуйте.! Пытаюсь после того, как все настройки в приложении пропали, подключить мобильную связь. Код подтверждения не приходит;Мобильная связь;"Hello.! I am trying, after all the settings in the application have disappeared, to bind the mobile connection. Verification code does not come
+";https://spb.rt.ru/support/mobile/control/services
+from_arab;Здравствуй.! Я пытаюсь, после того как в приложении пропали все настройки, подключить мобильное соединение. Код подтверждения не приходит;Мобильная связь;"Hello.! I am trying, after all the settings in the application have disappeared, to bind the mobile connection. Verification code does not come
+";https://spb.rt.ru/support/mobile/control/services
+original;Хочу посоветоваться с ВАМИ и выбрать трафик для модема для домашнего компьютера;Мобильная связь;"I want to consult with YOU and choose traffic for a modem for a home computer
+";None
+from_ang;Хочу с вами посоветоваться и подобрать трафик для модема для домашнего компьютера;Мобильная связь;"I want to consult with YOU and choose traffic for a modem for a home computer
+";None
+from_arab;Хочу с вами посоветоваться и подобрать трафик для модема для домашнего компьютера;Мобильная связь;"I want to consult with YOU and choose traffic for a modem for a home computer
+";None
+original;Прошу осуществить переход мобильной связи на РосТелеком с декабря 2020 г.;Мобильная связь;"I ask you to transfer mobile communications to RosTelecom from December 2020.
+";https://spb.rt.ru/support/mobile/connect/become-client-rostelecom
+from_ang;Пожалуйста, перенесите мобильную связь на Ростелеком с декабря 2020 года.;Мобильная связь;"I ask you to transfer mobile communications to RosTelecom from December 2020.
+";https://spb.rt.ru/support/mobile/connect/become-client-rostelecom
+from_arab;Прошу передать подключение мобильной связи к Ростелеком с декабря 2020 года.;Мобильная связь;"I ask you to transfer mobile communications to RosTelecom from December 2020.
+";https://spb.rt.ru/support/mobile/connect/become-client-rostelecom
+original;Добрый день! Сколько по времени занимает перенос номера?;Мобильная связь;"Good afternoon! How long does it take to transfer a number?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Добрый вечер! Сколько времени нужно, чтобы передать номер?;Мобильная связь;"Good afternoon! How long does it take to transfer a number?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Добрый вечер! Сколько времени нужно, чтобы передать номер?;Мобильная связь;"Good afternoon! How long does it take to transfer a number?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Как мне узнать остаток трафика ?;Мобильная связь;"How can I find out the remaining traffic?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Как я могу узнать оставшийся трафик?;Мобильная связь;"How can I find out the remaining traffic?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Как я могу узнать оставшийся трафик?;Мобильная связь;"How can I find out the remaining traffic?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Как посмотреть сколько дней осталось до окончания интернета;Мобильная связь;"How to see how many days are left until the end of the Internet
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Как узнать, сколько дней осталось до конца интернета;Мобильная связь;"How to see how many days are left until the end of the Internet
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Как посмотреть, сколько дней осталось до конца интернета;Мобильная связь;"How to see how many days are left until the end of the Internet
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Здравствуйте! я ошибся при оплате и ввёл номер счета сим карты а не интернета. можно как-то перевести деньги на другой счет?;Мобильная связь;"Hello! I made a mistake when paying and entered the account number of the SIM card and not the Internet. can I somehow transfer money to another account?
+";None
+from_ang;Здравствуйте! Я ошибся при оплате и ввел номер счёта сим карты, а не интернета. Могу ли я как-то перевести деньги на другой счет?;Мобильная связь;"Hello! I made a mistake when paying and entered the account number of the SIM card and not the Internet. can I somehow transfer money to another account?
+";None
+from_arab;Здравствуйте! Я ошибся при оплате и ввел номер счёта сим-карты, а не интернета. Могу ли я как-то перевести деньги на другой счет?;Мобильная связь;"Hello! I made a mistake when paying and entered the account number of the SIM card and not the Internet. can I somehow transfer money to another account?
+";None
+original;Здравствуйте, не могу подключиться с ноутбука, пишет - доступ в интернет заблокирован, хотя я только что пополнил баланс и использую вай-фай с телефона;Мобильная связь;"Hello, I can not connect from my laptop, writes - Internet access is blocked, although I just replenished my balance and use Wi-Fi from my phone
+";https://spb.rt.ru/support/mobile/setting/settings-mobile-internet
+from_ang;Привет, не могу позвонить с ноутбука, пишет - доступ в интернет заблокирован, хотя я только что пополнил баланс и использовал Wi-Fi с телефона;Мобильная связь;"Hello, I can not connect from my laptop, writes - Internet access is blocked, although I just replenished my balance and use Wi-Fi from my phone
+";https://spb.rt.ru/support/mobile/setting/settings-mobile-internet
+from_arab;Эй, не могу позвонить с ноутбука, пишет - доступ в интернет заблокирован, хотя я только что пополнил баланс и использовал Wi-Fi со своего телефона;Мобильная связь;"Hello, I can not connect from my laptop, writes - Internet access is blocked, although I just replenished my balance and use Wi-Fi from my phone
+";https://spb.rt.ru/support/mobile/setting/settings-mobile-internet
+original;Когда деньги с сим попадут на этот ЛС? И увижу ли я симкарту здесь в кабинете?;Мобильная связь;"When will the money from the SIM go to this PM? And will I see a sim card here in the office?
+";None
+from_ang;Когда в этот личку идут деньги с симки? Увижу ли я здесь в офисе сим-карту?;Мобильная связь;"When will the money from the SIM go to this PM? And will I see a sim card here in the office?
+";None
+from_arab;Когда в этот личку идут деньги с сим карты? Увижу ли я здесь в офисе сим-карту?;Мобильная связь;"When will the money from the SIM go to this PM? And will I see a sim card here in the office?
+";None
+original;Здравствуйте. Подключите, пожалуйста, отказ от рекламы по телефону;Мобильная связь;"Hello. Connect, please, opt out of advertising by phone
+";None
+from_ang;Здравствуйте. Продолжайте, удалите рекламу с телефона;Мобильная связь;"Hello. Connect, please, opt out of advertising by phone
+";None
+from_arab;Здравствуй. Продолжайте, пожалуйста, снимите с телефона объявление;Мобильная связь;"Hello. Connect, please, opt out of advertising by phone
+";None
+original;Можно ли удалённо перенести номер другого оператора в Ростелеком?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Можно ли удаленно передать Ростелекому номер другого оператора?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Можно ли удаленно передать Ростелекому номер другого оператора?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Здравствуйте! Скажите пожалуйста если я в Крым позвоню у меня за минуты будет звонок идти или как?;Мобильная связь;"Hello! Please tell me if I call in Crimea, will the call go in minutes or what?
+";None
+from_ang;Здравствуйте! Подскажите, пожалуйста, в Крым звонили, минутки звонили что ли?;Мобильная связь;"Hello! Please tell me if I call in Crimea, will the call go in minutes or what?
+";None
+from_arab;Здравствуйте! Скажите, пожалуйста, звонил ли я в Крым, звонили минуты или как?;Мобильная связь;"Hello! Please tell me if I call in Crimea, will the call go in minutes or what?
+";None
+original;Как узнать баланс на мобильном wifi роутере?;Мобильная связь;"How to find out the balance on a mobile wifi router?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Как узнать баланс портативного Wi-Fi роутера?;Мобильная связь;"How to find out the balance on a mobile wifi router?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Как узнать баланс портативного Wi-Fi роутера?;Мобильная связь;"How to find out the balance on a mobile wifi router?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Как узнать остаток по пакету сим карты;Мобильная связь;"How to find out the balance of a SIM card package
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Как узнать остаток на упаковке SIM-карты;Мобильная связь;"How to find out the balance of a SIM card package
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Как узнать остаток пакета SIM-карты;Мобильная связь;"How to find out the balance of a SIM card package
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;как настроить переадресацию с рабочего телефона на мобильный;Мобильная связь;"how to set up call forwarding from work phone to mobile
+";None
+from_ang;Как настроить переадресацию звонков с рабочего телефона на мобильный;Мобильная связь;"how to set up call forwarding from work phone to mobile
+";None
+from_arab;Как настроить переадресацию звонков с рабочего телефона на мобильный;Мобильная связь;"how to set up call forwarding from work phone to mobile
+";None
+original;добрый день, у меня есть сим карта Ростелеком, как узнать номер телефона?;Мобильная связь;"Good afternoon, I have a Rostelecom SIM card, how do I find out my phone number?
+";https://spb.rt.ru/support/mobile/reference-information/self-service
+from_ang;Добрый вечер, у меня есть сим-карта от Ростелеком, как узнать номер телефона?;Мобильная связь;"Good afternoon, I have a Rostelecom SIM card, how do I find out my phone number?
+";https://spb.rt.ru/support/mobile/reference-information/self-service
+from_arab;Добрый вечер, у меня есть сим-карта от Ростелеком, как узнать номер телефона?;Мобильная связь;"Good afternoon, I have a Rostelecom SIM card, how do I find out my phone number?
+";https://spb.rt.ru/support/mobile/reference-information/self-service
+original;Добрый день! Как узнать остаток минут на счете?;Мобильная связь;"Good afternoon! How to find out the balance of minutes on the account?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Добрый вечер! Как я могу узнать остаток минут на счете?;Мобильная связь;"Good afternoon! How to find out the balance of minutes on the account?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Добрый вечер! Как я могу узнать остаток минут на счете?;Мобильная связь;"Good afternoon! How to find out the balance of minutes on the account?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Здравствуй как узнать баланс сим карты;Мобильная связь;"Hello, how to find out the balance of the SIM card
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Здравствуйте, как узнать баланс сим карты;Мобильная связь;"Hello, how to find out the balance of the SIM card
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Здравствуйте, как узнать баланс сим карты;Мобильная связь;"Hello, how to find out the balance of the SIM card
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Здравствйте!я не могу поверить остаток трафика!?;Мобильная связь;"Hello! I can't believe the rest of the traffic !?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Здравствуйте! Не верится остальному трафику !?;Мобильная связь;"Hello! I can't believe the rest of the traffic !?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Здравствуйте! Не верится остальному трафику !?;Мобильная связь;"Hello! I can't believe the rest of the traffic !?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Сколько стоят звонки на мобильные телефоны с домашнего телефона? У нас тариф безлимитный.;Мобильная связь;"How much do calls to mobile phones from a home phone cost? We have an unlimited tariff.
+";https://spb.rt.ru/mobile/mobile_tariff
+from_ang;Сколько стоят звонки на сотовые телефоны с домашнего телефона? У нас безлимитные тарифы.;Мобильная связь;"How much do calls to mobile phones from a home phone cost? We have an unlimited tariff.
+";https://spb.rt.ru/mobile/mobile_tariff
+from_arab;Сколько стоят звонки на сотовые телефоны с домашнего телефона? У нас безлимитные тарифы.;Мобильная связь;"How much do calls to mobile phones from a home phone cost? We have an unlimited tariff.
+";https://spb.rt.ru/mobile/mobile_tariff
+original;Здравствуйте. Как трафик добавить? Подскажите;Мобильная связь;"Hello. How to add traffic? Prompt
+";https://spb.rt.ru/mobile/mobile_tariff
+from_ang;Здравствуйте. Как добавить трафик? срочный;Мобильная связь;"Hello. How to add traffic? Prompt
+";https://spb.rt.ru/mobile/mobile_tariff
+from_arab;Здравствуй. Как добавить трафик? срочный;Мобильная связь;"Hello. How to add traffic? Prompt
+";https://spb.rt.ru/mobile/mobile_tariff
+original;здравствуйте! ввел неправильно pin код три раза на симкарте, а puk код не могу найти, возможно ли его получить каким-то образом?;Мобильная связь;"Hello! I entered the wrong pin code three times on the sim card, but I can't find the puk code, is it possible to get it in some way?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_ang;Здравствуйте! Я 3 раза ввел неверный PIN-код на SIM-карте, но не могу найти puk-код, можно как-нибудь его узнать?;Мобильная связь;"Hello! I entered the wrong pin code three times on the sim card, but I can't find the puk code, is it possible to get it in some way?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_arab;Здравствуйте! Я 3 раза ввел неправильный PIN-код на сим-карту, но не могу найти puk-код, могу ли я как-нибудь его получить?;Мобильная связь;"Hello! I entered the wrong pin code three times on the sim card, but I can't find the puk code, is it possible to get it in some way?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+original;подскажите пожалуйста могу я обменять минуты на гб?;Мобильная связь;"please tell me can I exchange minutes for GB?
+";https://spb.rt.ru/mobile/mobile_tariff#zone
+from_ang;Подскажите, пожалуйста, можно ли обменять минуты на ГБ?;Мобильная связь;"please tell me can I exchange minutes for GB?
+";https://spb.rt.ru/mobile/mobile_tariff#zone
+from_arab;Подскажите пожалуйста, можно ли обменять минуты на ГБ?;Мобильная связь;"please tell me can I exchange minutes for GB?
+";https://spb.rt.ru/mobile/mobile_tariff#zone
+original;Надо подключить несколько симкарт в один пакет;Мобильная связь;"You need to connect several SIM cards in one package
+";None
+from_ang;Вам необходимо подключить несколько SIM-карт в одной упаковке;Мобильная связь;"You need to connect several SIM cards in one package
+";None
+from_arab;Вам необходимо подключить несколько SIM-карт в одной упаковке;Мобильная связь;"You need to connect several SIM cards in one package
+";None
+original;Как следить за расходами минут и интернет.;Мобильная связь;"How to keep track of spending minutes and internet.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Как отслеживать потраченные минуты и Интернет.;Мобильная связь;"How to keep track of spending minutes and internet.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Как отслеживать потраченные минуты и Интернет.;Мобильная связь;"How to keep track of spending minutes and internet.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Доброй ночи, а карту можно курьером получить;Мобильная связь;"Good night, and the card can be received by courier
+";None
+from_ang;Спокойной ночи, можете забрать карту по почте;Мобильная связь;"Good night, and the card can be received by courier
+";None
+from_arab;Спокойной ночи, можно забрать карту по почте;Мобильная связь;"Good night, and the card can be received by courier
+";None
+original;Где посмотреть расход трафика?;Мобильная связь;"Where can I see the traffic consumption?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Где посмотреть расход трафика?;Мобильная связь;"Where can I see the traffic consumption?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Где посмотреть расход трафика?;Мобильная связь;"Where can I see the traffic consumption?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Доброго дня. Не могу понять как в приложении увидеть остатки минут, интернета... И если не хватает интернета доплатить за трафик.;Мобильная связь;"Good day. I can't understand how to see the remaining minutes, Internet in the application ... And if there is not enough Internet, pay extra for traffic.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Добрый день. Не могу понять, как посмотреть оставшиеся минуты, интернет в приложении ... а если интернета не хватит, плати больше за трафик.;Мобильная связь;"Good day. I can't understand how to see the remaining minutes, Internet in the application ... And if there is not enough Internet, pay extra for traffic.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Добрый день. Я не могу понять, как посмотреть оставшиеся минуты, интернет в приложении ... а если интернета недостаточно, платить больше за трафик.;Мобильная связь;"Good day. I can't understand how to see the remaining minutes, Internet in the application ... And if there is not enough Internet, pay extra for traffic.
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Добрый вечер, как получить распечатку оказанных услуг?;Мобильная связь;"Good evening, how can I get a printout of the services provided?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Добрый вечер, как мне получить распечатанную копию предоставленных услуг?;Мобильная связь;"Good evening, how can I get a printout of the services provided?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Добрый вечер, как получить распечатанную копию предоставленных услуг?;Мобильная связь;"Good evening, how can I get a printout of the services provided?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Добрый день, я потеряла сим карту;Мобильная связь;"Good afternoon, I lost my sim card
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_ang;Добрый вечер я потерял сим карту;Мобильная связь;"Good afternoon, I lost my sim card
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_arab;Добрый вечер я потерял сим карту;Мобильная связь;"Good afternoon, I lost my sim card
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+original;Добрый вечер! Набором каких цифр подключить дополнительные 3Гб мобильного интернета за 200 рублей?;Мобильная связь;"Good evening! By dialing what numbers to connect additional 3GB of mobile Internet for 200 rubles?
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+from_ang;Добрый вечер! На вопрос, какие номера можно использовать для подключения дополнительных 3 ГБ мобильного интернета за 200 рублей?;Мобильная связь;"Good evening! By dialing what numbers to connect additional 3GB of mobile Internet for 200 rubles?
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+from_arab;Добрый вечер! На вопрос, по каким номерам можно подключить дополнительные 3 ГБ мобильного интернета за 200 рублей?;Мобильная связь;"Good evening! By dialing what numbers to connect additional 3GB of mobile Internet for 200 rubles?
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+original;Подскажите пожалуйста, на каком тарифе обмениваются минуты\смс на интернет трафик?;Мобильная связь;"Please tell me at what rate are minutes / sms exchanged for Internet traffic?
+";None
+from_ang;Подскажите пожалуйста какой курс обмена минут / смс в интернете?;Мобильная связь;"Please tell me at what rate are minutes / sms exchanged for Internet traffic?
+";None
+from_arab;Подскажите пожалуйста, какова скорость обмена минут / SMS в Интернете?;Мобильная связь;"Please tell me at what rate are minutes / sms exchanged for Internet traffic?
+";None
+original;Как подключить новую сим- карту?;Мобильная связь;"How to connect a new SIM card?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_ang;Как подключить новую симку?;Мобильная связь;"How to connect a new SIM card?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+from_arab;Как подключить новую симку?;Мобильная связь;"How to connect a new SIM card?
+";https://spb.rt.ru/support/mobile/control/sim-card-and-phone-number
+original;Здравствуйте я хотел бы перейти на другой тариф;Мобильная связь;"Hello, I would like to switch to a different tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+from_ang;Привет, я хочу перейти на другой тариф;Мобильная связь;"Hello, I would like to switch to a different tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+from_arab;Эй, я бы хотел перейти на другой тариф;Мобильная связь;"Hello, I would like to switch to a different tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+original;Можно ли удалённо перенести номер другого оператора в Ростелеком?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Можно ли удаленно передать Ростелекому номер другого оператора?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Можно ли удаленно передать Ростелекому номер другого оператора?;Мобильная связь;"Is it possible to remotely transfer the number of another operator to Rostelecom?
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Хотел бы перевести мобильный номер супруги с МТС на Ростелеком.;Мобильная связь;"I would like to transfer my wife's mobile number from MTS to Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Хочу перенести номер мобильного телефона жены с МТС на Ростелеком.;Мобильная связь;"I would like to transfer my wife's mobile number from MTS to Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Я хочу перенести номер мобильного телефона жены с МТС на Ростелеком.;Мобильная связь;"I would like to transfer my wife's mobile number from MTS to Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Добрый день! Подскажите как можно заказать детализацию;Мобильная связь;"Good afternoon! Tell me how you can order detailing
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Добрый вечер! Подскажите, как можно узнать подробности;Мобильная связь;"Good afternoon! Tell me how you can order detailing
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Добрый вечер! Скажите, как можно узнать подробности;Мобильная связь;"Good afternoon! Tell me how you can order detailing
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Когда произойдёт объединение тарифов?;Мобильная связь;"When will the tariff consolidation take place?
+";None
+from_ang;Когда будет стандартизирован тариф?;Мобильная связь;"When will the tariff consolidation take place?
+";None
+from_arab;Когда будет стандартизирован тариф?;Мобильная связь;"When will the tariff consolidation take place?
+";None
+original;Как узнать остаток трафика;Мобильная связь;"How to find out the remaining traffic
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+from_ang;Как узнать оставшийся трафик;Мобильная связь;"How to find out the remaining traffic
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+from_arab;Как узнать оставшийся трафик;Мобильная связь;"How to find out the remaining traffic
+";https://spb.rt.ru/support/mobile/payment/form-of-payment
+original;А оставшийся пакет минут с прошлого месяца более не переноситься ?;Мобильная связь;"And the remaining package of minutes from the last month can no longer be carried over?
+";None
+from_ang;А то, что осталось из пакета минут с прошлого месяца, больше нельзя перенести?;Мобильная связь;"And the remaining package of minutes from the last month can no longer be carried over?
+";None
+from_arab;И то, что осталось от пакета минут с прошлого месяца, больше не может быть перенесено?;Мобильная связь;"And the remaining package of minutes from the last month can no longer be carried over?
+";None
+original;Какой объем трафика входит в тариф;Мобильная связь;"How much traffic is included in the tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+from_ang;Сколько трафика входит в тариф;Мобильная связь;"How much traffic is included in the tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+from_arab;Сколько трафика входит в тариф;Мобильная связь;"How much traffic is included in the tariff
+";https://spb.rt.ru/mobile/mobile_tariff
+original;Добрый день как я могу подключить мобильную связь и инет от Ростелеком.;Мобильная связь;"Good afternoon, how can I connect mobile communication and Internet from Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Добрый вечер, Как подключить мобильную и интернет-связь от Ростелекома.;Мобильная связь;"Good afternoon, how can I connect mobile communication and Internet from Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Добрый вечер, Как подключить мобильную и интернет-связь от Ростелекома.;Мобильная связь;"Good afternoon, how can I connect mobile communication and Internet from Rostelecom.
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Здравствуйте, как я могу настроить переадресацию входящих вызовов?;Мобильная связь;"Hello, how can I set up incoming call forwarding?
+";None
+from_ang;Привет, как я могу настроить переадресацию входящих звонков?;Мобильная связь;"Hello, how can I set up incoming call forwarding?
+";None
+from_arab;Привет, а как мне настроить переадресацию входящих вызовов?;Мобильная связь;"Hello, how can I set up incoming call forwarding?
+";None
+original;Добрый день. Скажите как можно перейти со своим номером на мобильную связь ростелеком;Мобильная связь;"Good afternoon. Tell me how you can switch to Rostelecom with your number
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_ang;Добрый вечер. Подскажите, как можно перейти на Ростелеком со своим номером;Мобильная связь;"Good afternoon. Tell me how you can switch to Rostelecom with your number
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+from_arab;Добрый вечер. Подскажите, как можно перейти на Ростелеком со своим номером;Мобильная связь;"Good afternoon. Tell me how you can switch to Rostelecom with your number
+";https://spb.rt.ru/support/mobile/connect/transition-rostelecom-with-your-number
+original;Здравствуйте можно узнать сколько у меня сейчас на балансе счета;Мобильная связь;"Hello, you can find out how much I have on my account now
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Эй, теперь ты видишь сумму в моем аккаунте;Мобильная связь;"Hello, you can find out how much I have on my account now
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Эй, теперь ты можешь увидеть сумму в моем аккаунте;Мобильная связь;"Hello, you can find out how much I have on my account now
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Здравствуйте, как мне проверить баланс моего лицегого счета??;Мобильная связь;"Hello, how can I check the balance of my bogus account ??
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Здравствуйте, как я могу проверить баланс своего фиктивного счета ??;Мобильная связь;"Hello, how can I check the balance of my bogus account ??
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Здравствуйте, как я могу проверить баланс своего фиктивного счета ??;Мобильная связь;"Hello, how can I check the balance of my bogus account ??
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Добрый вечер подскажите как узнать остаток минут и интернета по тарифу на сим карте?;Мобильная связь;"Good evening, tell me how to find out the remaining minutes and the Internet at the rate on the SIM card?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_ang;Добрый вечер, подскажите, как узнать оставшиеся минуты и интернет по цене симки?;Мобильная связь;"Good evening, tell me how to find out the remaining minutes and the Internet at the rate on the SIM card?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+from_arab;Добрый вечер, подскажите как узнать оставшиеся минуты и интернет с ценой на симку?;Мобильная связь;"Good evening, tell me how to find out the remaining minutes and the Internet at the rate on the SIM card?
+";https://spb.rt.ru/support/mobile/payment/balance-and-payment
+original;Есть ли тариф, который включает мобильную связь и интернет?;Мобильная связь;"Is there a tariff that includes mobile communications and the Internet?
+";https://spb.rt.ru/mobile/mobile_tariff
+from_ang;Есть ли тариф, включающий мобильную связь и интернет?;Мобильная связь;"Is there a tariff that includes mobile communications and the Internet?
+";https://spb.rt.ru/mobile/mobile_tariff
+from_arab;Есть ли тариф, включающий мобильную связь и интернет?;Мобильная связь;"Is there a tariff that includes mobile communications and the Internet?
+";https://spb.rt.ru/mobile/mobile_tariff
+original;Добрый вечер! Если отключим домашний телефон, подключение к интернету сохранится?;Домашний телефон;"Good evening! If we disconnect the home phone, will the Internet connection remain?
+";None
+from_ang;Добрый вечер! Если мы отключим домашний телефон, останется ли подключение к Интернету?;Домашний телефон;"Good evening! If we disconnect the home phone, will the Internet connection remain?
+";None
+from_arab;Добрый вечер! Если мы отключим домашний телефон, останется ли интернет-соединение?;Домашний телефон;"Good evening! If we disconnect the home phone, will the Internet connection remain?
+";None
+original;Добрый день. Я хочу получить детализацию вызовов для домашнего телефона. Но в приложении у меня это не получается. Пожалуйста, помогите.;Домашний телефон;"Good afternoon. I want to get call details for my home phone. But in the application I can't do it. Please, help.
+";None
+from_ang;Добрый день. Я хочу получить информацию о звонках на домашний телефон. Но в приложении этого сделать не могу. Пожалуйста помоги.;Домашний телефон;"Good afternoon. I want to get call details for my home phone. But in the application I can't do it. Please, help.
+";None
+from_arab;Добрый вечер. Мне нужны данные о моем домашнем телефоне. Но в приложении я не могу этого сделать. пожалуйста помоги.;Домашний телефон;"Good afternoon. I want to get call details for my home phone. But in the application I can't do it. Please, help.
+";None
+original;Проблема, я не могу совершать исходящие звонки. Как это исправить?;Домашний телефон;"The problem is, I can't make outgoing calls. How to fix it?
+";None
+from_ang;Проблема в том, что я не могу совершать исходящие звонки. Как это исправить?;Домашний телефон;"The problem is, I can't make outgoing calls. How to fix it?
+";None
+from_arab;Проблема в том, что я не могу совершать исходящие звонки. Как это исправить?;Домашний телефон;"The problem is, I can't make outgoing calls. How to fix it?
+";None
+original;прошу сделать переадресацию телефонов;Домашний телефон;"please make phone forwarding
+";https://spb.rt.ru/support/phone/control/relocation
+from_ang;пожалуйста, сделайте переадресацию телефона;Домашний телефон;"please make phone forwarding
+";https://spb.rt.ru/support/phone/control/relocation
+from_arab;Пожалуйста, перешлите телефон;Домашний телефон;"please make phone forwarding
+";https://spb.rt.ru/support/phone/control/relocation
+original;Здравствуйте! Как получить детализацию звонков домашнего телефона?;Домашний телефон;"Hello! How do I get call detail on my home phone?
+";None
+from_ang;Здравствуйте! Как получить подробную информацию о звонках на домашний телефон?;Домашний телефон;"Hello! How do I get call detail on my home phone?
+";None
+from_arab;Здравствуйте! Как получить информацию о звонках на домашний телефон?;Домашний телефон;"Hello! How do I get call detail on my home phone?
+";None
+original;Добрый день! Как можно посмотреть детализацию звонков?;Домашний телефон;"Good afternoon! How can I see the details of calls?
+";None
+from_ang;Добрый день! Как я могу увидеть подробную информацию о звонках?;Домашний телефон;"Good afternoon! How can I see the details of calls?
+";None
+from_arab;Добрый вечер! Как я могу увидеть подробную информацию о звонках?;Домашний телефон;"Good afternoon! How can I see the details of calls?
+";None
+original;мне нужна детализация входящих звонков;Домашний телефон;"I need detailing of incoming calls
+";None
+from_ang;Мне нужна детализация входящих звонков;Домашний телефон;"I need detailing of incoming calls
+";None
+from_arab;Мне нужны данные о входящих звонках;Домашний телефон;"I need detailing of incoming calls
+";None
+original;Как установить музыку вместо гудков?;Домашний телефон;"How do I set music instead of beeps?
+";None
+from_ang;Как поставить музыку вместо гудков?;Домашний телефон;"How do I set music instead of beeps?
+";None
+from_arab;Как мне поставить музыку вместо гудков?;Домашний телефон;"How do I set music instead of beeps?
+";None
+original;Можно ли взять распечатку звонков моего домашнего телефона;Домашний телефон;"Can I take a printout of my home phone calls
+";None
+from_ang;Могу я сделать распечатку звонков на домашний телефон?;Домашний телефон;"Can I take a printout of my home phone calls
+";None
+from_arab;Могу ли я взять распечатку домашних телефонных звонков?;Домашний телефон;"Can I take a printout of my home phone calls
+";None
+original;Необходима переадресация входящих;Домашний телефон;"Call forwarding required
+";None
+from_ang;Требуется переадресация звонка;Домашний телефон;"Call forwarding required
+";None
+from_arab;Требуется переадресация звонка;Домашний телефон;"Call forwarding required
+";None
+original;Здравствуйте, как можно получить детализацию звонков с домашнего телефона?;Домашний телефон;"Hello, how can I get call details from my home phone?
+";None
+from_ang;Здравствуйте, как я могу получить информацию о звонках с домашнего телефона?;Домашний телефон;"Hello, how can I get call details from my home phone?
+";None
+from_arab;Эй, как я могу получить информацию о звонках с домашнего телефона?;Домашний телефон;"Hello, how can I get call details from my home phone?
+";None
+original;Скажите, есть ли у вас функция история звонков?;Домашний телефон;"Tell me if you have a call history function?
+";None
+from_ang;Подскажите, есть ли у вас функция истории звонков?;Домашний телефон;"Tell me if you have a call history function?
+";None
+from_arab;Подскажите, есть ли у вас функция журнала вызовов?;Домашний телефон;"Tell me if you have a call history function?
+";None
+original;Не работает домашний телефон.;Домашний телефон;"Home phone does not work.
+";None
+from_ang;Домашний телефон не работает.;Домашний телефон;"Home phone does not work.
+";None
+from_arab;Домашний телефон не работает.;Домашний телефон;"Home phone does not work.
+";None
+original;Можно создать заявку на ремонт?;Домашний телефон;"Can I create a repair request?
+";None
+from_ang;Могу ли я создать заявку на ремонт?;Домашний телефон;"Can I create a repair request?
+";None
+from_arab;Могу ли я создать заявку на ремонт?;Домашний телефон;"Can I create a repair request?
+";None
+original;Гудки идут, звонка не поступает, берёшь трубу, гудков нет, прошу проверить, что с телефоном;Домашний телефон;"There are beeps, no call, you pick up the pipe, there are no beeps, please check what's wrong with the phone
+";None
+from_ang;Есть гудки, звонка нет, трубку снимаешь, гудков нет, проверьте, что не так с телефоном;Домашний телефон;"There are beeps, no call, you pick up the pipe, there are no beeps, please check what's wrong with the phone
+";None
+from_arab;Есть гудки, нет звонка, поднимите трубку, нет гудков, проверьте, что не так с телефоном;Домашний телефон;"There are beeps, no call, you pick up the pipe, there are no beeps, please check what's wrong with the phone
+";None
+original;Давно не пользуюсь домашним телефоном, как отключить?;Домашний телефон;"I have not used my home phone for a long time, how can I turn it off?
+";https://spb.rt.ru/support/phone/control/disable-service
+from_ang;Я давно не пользуюсь домашним телефоном, как его выключить?;Домашний телефон;"I have not used my home phone for a long time, how can I turn it off?
+";https://spb.rt.ru/support/phone/control/disable-service
+from_arab;Я давно не пользуюсь домашним телефоном, как его выключить?;Домашний телефон;"I have not used my home phone for a long time, how can I turn it off?
+";https://spb.rt.ru/support/phone/control/disable-service
+original;Куда обратиться чтобы мне сделали перерасчет и отключили телефон домашний;Домашний телефон;"Where to go so that they can recalculate me and disconnect my home phone
+";https://spb.rt.ru/support/phone/control/disable-service
+from_ang;Куда пойти, чтобы меня пересчитали и отключили домашний телефон;Домашний телефон;"Where to go so that they can recalculate me and disconnect my home phone
+";https://spb.rt.ru/support/phone/control/disable-service
+from_arab;Куда мне пойти, чтобы сбросить настройки и отключить домашний телефон;Домашний телефон;"Where to go so that they can recalculate me and disconnect my home phone
+";https://spb.rt.ru/support/phone/control/disable-service
+original;Добрый день. После замены роутера на zxhn h298a не могу зарегистрировать домашний телефон.;Домашний телефон;"Good afternoon. After replacing the router with zxhn h298a, I cannot register my home phone.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+from_ang;Добрый день. После замены роутера на zxhn h298a не могу зарегистрировать домашний телефон.;Домашний телефон;"Good afternoon. After replacing the router with zxhn h298a, I cannot register my home phone.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+from_arab;Добрый вечер. После замены роутера на zxhn h298a не могу зарегистрировать домашний телефон.;Домашний телефон;"Good afternoon. After replacing the router with zxhn h298a, I cannot register my home phone.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+original;Здравствуйте примите заявку Не работает домашний телефон;Домашний телефон;"Hello, accept the request Home phone does not work
+";None
+from_ang;Здравствуйте, принимаем заявку Домашний телефон не работает;Домашний телефон;"Hello, accept the request Home phone does not work
+";None
+from_arab;Привет, прими запрос Домашний телефон не работает;Домашний телефон;"Hello, accept the request Home phone does not work
+";None
+original;Здравствуйте. У меня услуга домашний телефон заблокирована;Домашний телефон;"Hello. My home phone service is blocked
+";None
+from_ang;Здравствуйте. Мой домашний телефон заблокирован;Домашний телефон;"Hello. My home phone service is blocked
+";None
+from_arab;Здравствуй. Мой домашний телефон запрещен;Домашний телефон;"Hello. My home phone service is blocked
+";None
+original;Не работает услуга телефонии. Прошу проверить;Домашний телефон;"The telephony service does not work. Please check
+";None
+from_ang;Услуга телефонии не работает. пожалуйста, проверьте;Домашний телефон;"The telephony service does not work. Please check
+";None
+from_arab;Телефонная служба не работает. пожалуйста, проверьте;Домашний телефон;"The telephony service does not work. Please check
+";None
+original;Нет сигнала на домашнем телефоне;Домашний телефон;"No signal on home phone
+";None
+from_ang;Нет сигнала на домашнем телефоне;Домашний телефон;"No signal on home phone
+";None
+from_arab;Нет сигнала на домашнем телефоне;Домашний телефон;"No signal on home phone
+";None
+original;Я перечислила еще 600 руб, а телефон все отключен. Гудка нет.;Домашний телефон;"I transferred another 600 rubles, and the phone was turned off. There is no dial tone.
+";https://spb.rt.ru/support/phone/payment/payment-received-but-no-service
+from_ang;Я перевел еще 600 рублей, и телефон выключили. Нет гудка.;Домашний телефон;"I transferred another 600 rubles, and the phone was turned off. There is no dial tone.
+";https://spb.rt.ru/support/phone/payment/payment-received-but-no-service
+from_arab;Я перевел еще 600 рублей, и телефон выключился. Нет гудка.;Домашний телефон;"I transferred another 600 rubles, and the phone was turned off. There is no dial tone.
+";https://spb.rt.ru/support/phone/payment/payment-received-but-no-service
+original;Здравствуйте, почему вы мне все ещё не отключили домашний телефон?;Домашний телефон;"Hello, why haven't you turned off my home phone yet?
+";None
+from_ang;Здравствуйте, а почему вы еще не выключили мой домашний телефон?;Домашний телефон;"Hello, why haven't you turned off my home phone yet?
+";None
+from_arab;Эй, а почему ты еще не выключил мой домашний телефон?;Домашний телефон;"Hello, why haven't you turned off my home phone yet?
+";None
+original;При поднятии трубки гудков нет!;Домашний телефон;"There are no beeps when picking up the handset!
+";None
+from_ang;При поднятии трубки гудков нет!;Домашний телефон;"There are no beeps when picking up the handset!
+";None
+from_arab;Никаких гудков при поднятии трубки!;Домашний телефон;"There are no beeps when picking up the handset!
+";None
+original;Не работает домашний телефон на исходящие звонки;Домашний телефон;"Home phone does not work for outgoing calls
+";None
+from_ang;Домашний телефон не работает для исходящих звонков;Домашний телефон;"Home phone does not work for outgoing calls
+";None
+from_arab;Домашний телефон не работает для исходящих звонков;Домашний телефон;"Home phone does not work for outgoing calls
+";None
+original;Здравствуйте,где найти свой домашний телефон?;Домашний телефон;"Hello, where can I find my home phone?
+";None
+from_ang;Здравствуйте, а где мне найти домашний телефон?;Домашний телефон;"Hello, where can I find my home phone?
+";None
+from_arab;Эй, а где мне найти домашний телефон?;Домашний телефон;"Hello, where can I find my home phone?
+";None
+original;хочу узнать почему не работает телефон говорят отсутствует регистрация;Домашний телефон;"I want to know why the phone is not working they say there is no registration
+";None
+from_ang;Хочу узнать почему не работает телефон мол нет регистрации;Домашний телефон;"I want to know why the phone is not working they say there is no registration
+";None
+from_arab;Хочу узнать почему не работает телефон мол нет регистрации;Домашний телефон;"I want to know why the phone is not working they say there is no registration
+";None
+original;Здравствуйте, а сколько стоит подключение домашнего телефона?;Домашний телефон;"Hello, how much does it cost to connect a home phone?
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+from_ang;Здравствуйте, сколько стоит подключить домашний телефон?;Домашний телефон;"Hello, how much does it cost to connect a home phone?
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+from_arab;Эй, а сколько стоит доставка домашнего телефона?;Домашний телефон;"Hello, how much does it cost to connect a home phone?
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+original;Здравствуйте, хочу отключить на домашнем телефоне 8ку что бы на мобильные не набрать было.;Домашний телефон;"Hello, I want to turn off 8k on my home phone so that it is not possible to dial on mobile phones.
+";None
+from_ang;Здравствуйте, хочу на домашнем телефоне выключить 8к, чтобы на мобильных нельзя было дозвониться.;Домашний телефон;"Hello, I want to turn off 8k on my home phone so that it is not possible to dial on mobile phones.
+";None
+from_arab;Эй, я хочу выключить 8k на домашнем телефоне, чтобы нельзя было звонить на сотовые телефоны.;Домашний телефон;"Hello, I want to turn off 8k on my home phone so that it is not possible to dial on mobile phones.
+";None
+original;Здравствуйте! Сколько стоит минута телефонной связи (домашний телефон) с Украиной.;Домашний телефон;"Hello! How much does a minute of telephone communication (home phone) cost with Ukraine.
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+from_ang;Здравствуйте! Сколько стоит минута телефонного разговора (домашний телефон) с Украиной.;Домашний телефон;"Hello! How much does a minute of telephone communication (home phone) cost with Ukraine.
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+from_arab;Здравствуйте! Сколько стоит минута звонка (домашний телефон) с Украиной.;Домашний телефон;"Hello! How much does a minute of telephone communication (home phone) cost with Ukraine.
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+original;добрый день!!! Как мне решить проблему, ранее у меня стоял проводной телефон и при поступающем звонке определялись номера. Провели другую линию и установили другой номер тел, но определяться номера не стали.;Домашний телефон;"good afternoon!!! How can I solve the problem, earlier I had a wired phone and when a call came in, the numbers were determined. They drew another line and set a different number of bodies, but they did not determine the numbers.
+";None
+from_ang;Добрый день!!! Как решить проблему, раньше у меня был проводной телефон и при звонке номера определялись. Они нарисовали другую линию и установили другое количество тел, но не определили числа.;Домашний телефон;"good afternoon!!! How can I solve the problem, earlier I had a wired phone and when a call came in, the numbers were determined. They drew another line and set a different number of bodies, but they did not determine the numbers.
+";None
+from_arab;Добрый вечер!!! Как исправить проблему, раньше у меня был проводной телефон и при входящем звонке номера опознавались. Они нарисовали другую линию и поместили другое количество тел, но не указали числа.;Домашний телефон;"good afternoon!!! How can I solve the problem, earlier I had a wired phone and when a call came in, the numbers were determined. They drew another line and set a different number of bodies, but they did not determine the numbers.
+";None
+original;Здравствуйте, если мы отключим домашний телефон будет ли продолжать работать интернет?;Домашний телефон;"Hello, if we turn off the home phone, will the Internet continue to work?
+";None
+from_ang;Здравствуйте, если выключить домашний телефон, продолжит ли работать интернет?;Домашний телефон;"Hello, if we turn off the home phone, will the Internet continue to work?
+";None
+from_arab;Эй, а если выключить домашний телефон, будет ли интернет работать?;Домашний телефон;"Hello, if we turn off the home phone, will the Internet continue to work?
+";None
+original;Здравствуйте, проблема с домашним телефоном , связь есть звонки на сотовый но слышинности нет не какой;Домашний телефон;"Hello, there is a problem with the home phone, there are calls to the cell phone, but there is no audibility
+";None
+from_ang;Здравствуйте, есть проблема с домашним телефоном, на сотовый телефон есть звонки, но нет слышимости;Домашний телефон;"Hello, there is a problem with the home phone, there are calls to the cell phone, but there is no audibility
+";None
+from_arab;Привет, проблема с домашним телефоном, по мобильному телефону идут звонки, но нет слуха;Домашний телефон;"Hello, there is a problem with the home phone, there are calls to the cell phone, but there is no audibility
+";None
+original;здраствуйте отключите мне пожалуйста навсегда домашний телефон т к я им не пользовался никогда;Домашний телефон;"hello, please disconnect my home phone forever, since I have never used it
+";https://spb.rt.ru/support/phone/control/disable-service
+from_ang;привет, пожалуйста, отключите мой домашний телефон навсегда, так как я никогда им не пользовался;Домашний телефон;"hello, please disconnect my home phone forever, since I have never used it
+";https://spb.rt.ru/support/phone/control/disable-service
+from_arab;Здравствуйте, пожалуйста, выключите мой домашний телефон навсегда, я никогда им не пользовался;Домашний телефон;"hello, please disconnect my home phone forever, since I have never used it
+";https://spb.rt.ru/support/phone/control/disable-service
+original;Перестал работать набор номера. При наборе не пропадает длинный гудок. Включен тоновый набор номера. Проблем ранее не было. Прошу Вас проверить на станции причину сбоя. Возможно на станции стоит настройка на импульсный набор? Спасибо.;Домашний телефон;"Dialing stopped working. When dialing, a long beep does not disappear. Tone dialing enabled. There were no problems before. I ask you to check the cause of the failure at the station. Perhaps the station is set to pulse dialing? Thanks.
+";None
+from_ang;Перестал работать набор номера. При наборе номера длинный гудок не пропадает. Тональный набор включен. Раньше проблем не было. Прошу выяснить причину поломки на станции. Возможно, на станции установлен импульсный набор номера? Спасибо.;Домашний телефон;"Dialing stopped working. When dialing, a long beep does not disappear. Tone dialing enabled. There were no problems before. I ask you to check the cause of the failure at the station. Perhaps the station is set to pulse dialing? Thanks.
+";None
+from_arab;Связь перестала работать. По запросу не пропадает долгий звук. Тональный набор включен. Раньше проблем не было. Прошу уточнить причину сбоя на терминале. Возможно, терминал настроен на импульсный набор? Спасибо.;Домашний телефон;"Dialing stopped working. When dialing, a long beep does not disappear. Tone dialing enabled. There were no problems before. I ask you to check the cause of the failure at the station. Perhaps the station is set to pulse dialing? Thanks.
+";None
+original;не работает домашний телефон. Куда обратиться?;Домашний телефон;"home phone does not work. Where to go?
+";None
+from_ang;домашний телефон не работает. Куда идти?;Домашний телефон;"home phone does not work. Where to go?
+";None
+from_arab;Домашний телефон не работает. Куда идти?;Домашний телефон;"home phone does not work. Where to go?
+";None
+original;Мой стационарный телефон постоянно занят.Трубка панасоник, пишет линя занята . Уже больше недели.;Домашний телефон;"My landline phone is constantly busy. The phone is a Panasonic, the line is busy. For over a week now.
+";None
+from_ang;Мой стационарный телефон постоянно занят. Телефон - Панасоник, линия занята. Уже больше недели.;Домашний телефон;"My landline phone is constantly busy. The phone is a Panasonic, the line is busy. For over a week now.
+";None
+from_arab;Мой стационарный телефон постоянно занят. Телефон и линия Panasonic заняты. Уже больше недели.;Домашний телефон;"My landline phone is constantly busy. The phone is a Panasonic, the line is busy. For over a week now.
+";None
+original;Почему не отражается услуга домашний телефон?;Домашний телефон;"Why is the home phone service not reflected?
+";None
+from_ang;Почему не отображается услуга домашнего телефона?;Домашний телефон;"Why is the home phone service not reflected?
+";None
+from_arab;Почему услуга домашнего телефона не зеркалируется?;Домашний телефон;"Why is the home phone service not reflected?
+";None
+original;Здравствуйте, скажите пожалуйста,услуга телефонии по ЛС отключена?;Домашний телефон;"Hello, please tell me, is the LAN telephony service disabled?
+";None
+from_ang;Здравствуйте, подскажите пожалуйста, отключена ли услуга LAN телефонии?;Домашний телефон;"Hello, please tell me, is the LAN telephony service disabled?
+";None
+from_arab;Эй, скажите, пожалуйста, отключена ли услуга телефонной локальной сети?;Домашний телефон;"Hello, please tell me, is the LAN telephony service disabled?
+";None
+original;Здравствуйте. Не работает домашний телефон. Как можно сделать заявку?;Домашний телефон;"Hello. Home phone does not work. How can I make a request?
+";None
+from_ang;Здравствуйте. Домашний телефон не работает. Как я могу сделать запрос?;Домашний телефон;"Hello. Home phone does not work. How can I make a request?
+";None
+from_arab;Здравствуй. Домашний телефон не работает. Как мне подать заявку?;Домашний телефон;"Hello. Home phone does not work. How can I make a request?
+";None
+original;Здравствуйте. Подняла трубку домашнего телефона а там молчок. Попробовала позвонить на него с мобильного, проходит сигнал вызова и сразу сброс (короткие гудки). В чём проблема?;Домашний телефон;"Hello. She picked up the home phone and there was silence. I tried to call him from my mobile, the call signal goes through and immediately reset (short beeps). What is the problem?
+";None
+from_ang;Здравствуйте. Она взяла домашний телефон, и воцарилась тишина. Пытался дозвониться ему со своего мобильного, сигнал вызова идет и сразу сбрасывается (короткие гудки). В чем проблема?;Домашний телефон;"Hello. She picked up the home phone and there was silence. I tried to call him from my mobile, the call signal goes through and immediately reset (short beeps). What is the problem?
+";None
+from_arab;Здравствуй. Я взял домашний телефон, и воцарилась тишина. Я попытался дозвониться на него с мобильного, сигнал вызова и сброс сразу прошли (короткие гудки). в чем проблема?;Домашний телефон;"Hello. She picked up the home phone and there was silence. I tried to call him from my mobile, the call signal goes through and immediately reset (short beeps). What is the problem?
+";None
+original;Добрый день. Подскажите, пожалуйста, стоимость установки точки стационарной телефонной связи.;Домашний телефон;"Good afternoon. Please tell me the cost of installing a landline telephone point.
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+from_ang;Добрый день. Подскажите пожалуйста стоимость установки стационарного телефонного пункта.;Домашний телефон;"Good afternoon. Please tell me the cost of installing a landline telephone point.
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+from_arab;Добрый вечер. Подскажите пожалуйста стоимость установки стационарного телефона.;Домашний телефон;"Good afternoon. Please tell me the cost of installing a landline telephone point.
+";https://spb.rt.ru/support/phone/connect/find-current-tariff-plan-under-contract
+original;что такое: прочие услуги местной телефонной линии?;Домашний телефон;"what is: other local telephone line services?
+";0.0
+from_ang;что такое: другие услуги местной телефонной связи?;Домашний телефон;"what is: other local telephone line services?
+";0.0
+from_arab;Что: другие услуги местной телефонной связи?;Домашний телефон;"what is: other local telephone line services?
+";0.0
+original;Подскажите когда будет сделан перерасчёт за дни, когда не работал телефон?;Домашний телефон;"Tell me when will the recalculation be made for the days when the phone was not working?
+";0.0
+from_ang;Подскажите, когда будет производиться пересчет на дни, когда телефон не работал?;Домашний телефон;"Tell me when will the recalculation be made for the days when the phone was not working?
+";0.0
+from_arab;Подскажите, когда будет восстановлена ​​учетная запись за дни, когда телефон не работал?;Домашний телефон;"Tell me when will the recalculation be made for the days when the phone was not working?
+";0.0
+original;Здравствуйте, у меня вопрос по поводу домашнего телефона. Скажите пожалуйста, сколько стоит минута разговора в Санкт Петербург;Домашний телефон;"Hello, I have a question about my home phone. Please tell me how much is a minute of conversation in St. Petersburg
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+from_ang;Здравствуйте, у меня вопрос по домашнему телефону. Подскажите пожалуйста сколько стоит минута разговора в Питере;Домашний телефон;"Hello, I have a question about my home phone. Please tell me how much is a minute of conversation in St. Petersburg
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+from_arab;Привет, у меня вопрос по домашнему телефону. Подскажите пожалуйста, насколько точен разговор в Питере;Домашний телефон;"Hello, I have a question about my home phone. Please tell me how much is a minute of conversation in St. Petersburg
+";https://spb.rt.ru/support/phone/control/domestic-abroad-calls
+original;Как заказать мастера на дом,не работает телефон;Домашний телефон;"How to order a master at home, the phone does not work
+";0.0
+from_ang;Как заказать мастера на дом, телефон не работает;Домашний телефон;"How to order a master at home, the phone does not work
+";0.0
+from_arab;Как заказать мастера на дом, телефон не работает;Домашний телефон;"How to order a master at home, the phone does not work
+";0.0
+original;Здравствуйте! Не работает домашний телефон: в трубке слышны гудки типа занято. Помогите решить проблему;Домашний телефон;"Hello! Home phone does not work: busy beeps are heard in the receiver. Help solve the problem
+";0.0
+from_ang;Здравствуйте! Домашний телефон не работает: в трубке слышны гудки занятости. Помогите решить проблему;Домашний телефон;"Hello! Home phone does not work: busy beeps are heard in the receiver. Help solve the problem
+";0.0
+from_arab;Здравствуйте! Домашний телефон не работает: в трубке слышен сигнал занятости. Помогите решить проблему;Домашний телефон;"Hello! Home phone does not work: busy beeps are heard in the receiver. Help solve the problem
+";0.0
+original;Здравствуйте,я хотела восстановить услугу домашний телефон.;Домашний телефон;"Hello, I would like to restore the home phone service.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+from_ang;Здравствуйте, хочу восстановить работу домашнего телефона.;Домашний телефон;"Hello, I would like to restore the home phone service.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+from_arab;Эй, я бы хотел вернуть свой домашний телефон.;Домашний телефон;"Hello, I would like to restore the home phone service.
+";https://spb.rt.ru/support/phone/connect/connect-phone-to-house-apartment
+original;Добрый день, как посмотреть входящие вызовы на домашний телефон? есть подозрение что звонят мошенники;Домашний телефон;"Good afternoon, how can I view incoming calls on my home phone? there is a suspicion that scammers are calling
+";0.0
+from_ang;Добрый день, как мне просмотреть входящие звонки на домашнем телефоне? есть подозрение, что звонят мошенники;Домашний телефон;"Good afternoon, how can I view incoming calls on my home phone? there is a suspicion that scammers are calling
+";0.0
+from_arab;Добрый вечер, как мне увидеть входящие звонки на домашнем телефоне? Есть подозрение, что звонят мошенники;Домашний телефон;"Good afternoon, how can I view incoming calls on my home phone? there is a suspicion that scammers are calling
+";0.0
+original;Не могу подключить камеру;Видеонаблюдение;"Can't connect camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+from_ang;Не могу подключить камеру;Видеонаблюдение;"Can't connect camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+from_arab;Не удается подключить камеру;Видеонаблюдение;"Can't connect camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+original;Доброе утро, подскажите пожалуйста, как восстановить пароль на приложении умный дом?;Видеонаблюдение;"Good morning, can you please tell me how to recover the password on the smart home application?
+";1.0
+from_ang;Доброе утро, подскажите пожалуйста как восстановить пароль в приложении умный дом?;Видеонаблюдение;"Good morning, can you please tell me how to recover the password on the smart home application?
+";1.0
+from_arab;Доброе утро, подскажите, как восстановить пароль в приложении умный дом?;Видеонаблюдение;"Good morning, can you please tell me how to recover the password on the smart home application?
+";1.0
+original;Как подключить камеры к другой сети вай фай?;Видеонаблюдение;"How to connect cameras to another Wi-Fi network?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+from_ang;Как подключить камеры к другой сети Wi-Fi?;Видеонаблюдение;"How to connect cameras to another Wi-Fi network?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+from_arab;Как подключить камеры к другой сети Wi-Fi?;Видеонаблюдение;"How to connect cameras to another Wi-Fi network?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_kamera/
+original;Немогу просмотреть камеру с телефона;Видеонаблюдение;"Can't view the camera from my phone
+";1.0
+from_ang;Не могу просматривать камеру с телефона;Видеонаблюдение;"Can't view the camera from my phone
+";1.0
+from_arab;Камера не видна с телефона;Видеонаблюдение;"Can't view the camera from my phone
+";1.0
+original;Не могу войти в умный дом;Видеонаблюдение;"I can not enter the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Не могу войти в умный дом;Видеонаблюдение;"I can not enter the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я не могу войти в умный дом;Видеонаблюдение;"I can not enter the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Как удалить камеру со старого аккаунта?;Видеонаблюдение;"How do I remove a camera from my old account?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_ang;Как удалить камеру из моей старой учетной записи?;Видеонаблюдение;"How do I remove a camera from my old account?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_arab;Как мне удалить камеру из моей старой учетной записи?;Видеонаблюдение;"How do I remove a camera from my old account?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+original;Могу ли присоединить эту услугу в личном кабинете?;Видеонаблюдение;"Can I add this service in my account?
+";1.0
+from_ang;Могу ли я добавить эту услугу в свой аккаунт?;Видеонаблюдение;"Can I add this service in my account?
+";1.0
+from_arab;Могу ли я добавить эту услугу в свой аккаунт?;Видеонаблюдение;"Can I add this service in my account?
+";1.0
+original;Как подключить услугу Умный дом на Ростелекоме?;Видеонаблюдение;"How to activate the Smart Home service on Rostelecom?
+";1.0
+from_ang;Как подключить услугу Умный дом в Ростелекоме?;Видеонаблюдение;"How to activate the Smart Home service on Rostelecom?
+";1.0
+from_arab;Как подключить услугу Умный дом в Ростелекоме?;Видеонаблюдение;"How to activate the Smart Home service on Rostelecom?
+";1.0
+original;Возможно ли что одна камера настроена на два телефона?;Видеонаблюдение;"Is it possible that one camera is configured for two phones?
+";1.0
+from_ang;Возможно ли, что на два телефона настроена одна камера?;Видеонаблюдение;"Is it possible that one camera is configured for two phones?
+";1.0
+from_arab;Можно ли настроить одну камеру на два телефона?;Видеонаблюдение;"Is it possible that one camera is configured for two phones?
+";1.0
+original;СКАЖИТЕ ПОЖАЛУЙСТА КАК МНЕ УДАЛИТЬ КАМЕРЫ;Видеонаблюдение;"PLEASE TELL ME HOW TO DELETE CAMERAS
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_ang;ПОЖАЛУЙСТА, СКАЖИТЕ МНЕ, КАК УДАЛИТЬ КАМЕРЫ;Видеонаблюдение;"PLEASE TELL ME HOW TO DELETE CAMERAS
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_arab;Подскажите пожалуйста как удалить камеры;Видеонаблюдение;"PLEASE TELL ME HOW TO DELETE CAMERAS
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+original;Не могу зайти в приложение Умный дом;Видеонаблюдение;"I cannot enter the Smart Home application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Не могу войти в приложение Умный дом;Видеонаблюдение;"I cannot enter the Smart Home application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я не могу получить доступ к приложению Smart Home;Видеонаблюдение;"I cannot enter the Smart Home application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Помогите зайти в приложение;Видеонаблюдение;"Help to enter the application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Помогите войти в приложение;Видеонаблюдение;"Help to enter the application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Помогите войти в приложение;Видеонаблюдение;"Help to enter the application
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Здравствуйте, подскажите, пожалуцста, какое оборудование предоставляете в ростелеком для видеонаблюдения. Хочу ознакомиться с характеристиками.;Видеонаблюдение;"Hello, tell me, please, what equipment do you provide in Rostelecom for video surveillance. I would like to see the characteristics.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/wave/
+from_ang;Здравствуйте, подскажите, пожалуйста, какое оборудование вы предоставляете в Ростелеком для видеонаблюдения. Хотелось бы посмотреть характеристики.;Видеонаблюдение;"Hello, tell me, please, what equipment do you provide in Rostelecom for video surveillance. I would like to see the characteristics.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/wave/
+from_arab;Здравствуйте, подскажите, пожалуйста, какое оборудование вы предоставляете в Ростелеком для видеонаблюдения. Хотелось бы посмотреть характеристики.;Видеонаблюдение;"Hello, tell me, please, what equipment do you provide in Rostelecom for video surveillance. I would like to see the characteristics.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/wave/
+original;Как переключить сеть WiFi на камере?;Видеонаблюдение;"How to switch WiFi network on the camera?
+";1.0
+from_ang;Как на камере переключить сеть WiFi?;Видеонаблюдение;"How to switch WiFi network on the camera?
+";1.0
+from_arab;Как включить Wi-Fi на камере?;Видеонаблюдение;"How to switch WiFi network on the camera?
+";1.0
+original;Подскажите как можно удалить камеру в умном доме;Видеонаблюдение;"Tell me how you can remove a camera in a smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_ang;Подскажите как можно снять камеру в умном доме;Видеонаблюдение;"Tell me how you can remove a camera in a smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_arab;Подскажите как можно снять камеру в умном доме;Видеонаблюдение;"Tell me how you can remove a camera in a smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+original;Здравствуйте,скажите,сколько стоит подключить видео наблюдение?;Видеонаблюдение;"Hello, tell me, how much does it cost to connect video surveillance?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/tarif/
+from_ang;Здравствуйте, подскажите, сколько стоит подключение видеонаблюдения?;Видеонаблюдение;"Hello, tell me, how much does it cost to connect video surveillance?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/tarif/
+from_arab;Эй, подскажите, сколько стоит подключение систем видеонаблюдения?;Видеонаблюдение;"Hello, tell me, how much does it cost to connect video surveillance?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/tarif/
+original;А сдать оборудование куда?;Видеонаблюдение;"And where to hand over the equipment?
+";1.0
+from_ang;А где сдать оборудование?;Видеонаблюдение;"And where to hand over the equipment?
+";1.0
+from_arab;Куда доставляется оборудование?;Видеонаблюдение;"And where to hand over the equipment?
+";1.0
+original;Расскажите пожалуйста про услугу умный дом;Видеонаблюдение;"Please tell us about the smart home service
+";https://help.smarthome.rt.ru/
+from_ang;Расскажите, пожалуйста, об услуге умного дома;Видеонаблюдение;"Please tell us about the smart home service
+";https://help.smarthome.rt.ru/
+from_arab;Расскажите, пожалуйста, об услуге умного дома;Видеонаблюдение;"Please tell us about the smart home service
+";https://help.smarthome.rt.ru/
+original;Хотелось установить камеру наблюдения за авто.;Видеонаблюдение;"I wanted to install a surveillance camera for the car.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_device_1/
+from_ang;Хотел установить камеру наблюдения на машину.;Видеонаблюдение;"I wanted to install a surveillance camera for the car.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_device_1/
+from_arab;Я хотел установить автомобильную камеру безопасности.;Видеонаблюдение;"I wanted to install a surveillance camera for the car.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/new_device_1/
+original;Забыла пароль от умного дома. Не могу войти.;Видеонаблюдение;"I forgot my smart home password. I can not enter.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Я забыл свой пароль умного дома. Я не могу войти.;Видеонаблюдение;"I forgot my smart home password. I can not enter.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я забыл свой пароль умного дома. Я не могу залогиниться.;Видеонаблюдение;"I forgot my smart home password. I can not enter.
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;стало очень плохо слышно мою речь в видеокамере что может быть?;Видеонаблюдение;"it became very hard to hear my speech in the video camera what could be?
+";None
+from_ang;стало очень тяжело слышать мою речь в видеокамеру, что может быть?;Видеонаблюдение;"it became very hard to hear my speech in the video camera what could be?
+";None
+from_arab;Стало очень трудно слышать мои слова по видеокамере. Что это может быть?;Видеонаблюдение;"it became very hard to hear my speech in the video camera what could be?
+";None
+original;Как оплачивать?;Видеонаблюдение;"How to pay?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/finance/
+from_ang;Как платить?;Видеонаблюдение;"How to pay?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/finance/
+from_arab;Как платить?;Видеонаблюдение;"How to pay?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/finance/
+original;Как настроить камеру;Видеонаблюдение;"How to set up your camera
+";None
+from_ang;Как настроить камеру;Видеонаблюдение;"How to set up your camera
+";None
+from_arab;Как настроить камеру;Видеонаблюдение;"How to set up your camera
+";None
+original;как мне с телефона видео камер сохранить на флешку;Видеонаблюдение;"how can I save video cameras from my phone to a USB flash drive
+";None
+from_ang;как сохранить видеокамеры с телефона на флешку;Видеонаблюдение;"how can I save video cameras from my phone to a USB flash drive
+";None
+from_arab;Как сохранить видеокамеры с телефона на USB-накопитель;Видеонаблюдение;"how can I save video cameras from my phone to a USB flash drive
+";None
+original;Не работает push вызов через динамики камеры.;Видеонаблюдение;"Push call does not work through camera speakers.
+";None
+from_ang;Push-вызов не работает через динамики камеры.;Видеонаблюдение;"Push call does not work through camera speakers.
+";None
+from_arab;Push-вызов не работает через динамики камеры.;Видеонаблюдение;"Push call does not work through camera speakers.
+";None
+original;Что такое АСР?;Видеонаблюдение;"What is ACP?
+";None
+from_ang;Что такое ACP?;Видеонаблюдение;"What is ACP?
+";None
+from_arab;Что такое ACP?;Видеонаблюдение;"What is ACP?
+";None
+original;Не передаётся голосовое сообщение на камеру.;Видеонаблюдение;"The voice message is not transmitted to the camera.
+";None
+from_ang;Голосовое сообщение на камеру не передается.;Видеонаблюдение;"The voice message is not transmitted to the camera.
+";None
+from_arab;Голосовое сообщение не отправляется на камеру.;Видеонаблюдение;"The voice message is not transmitted to the camera.
+";None
+original;Сколько стоит услуга умный дом;Видеонаблюдение;"How much does smart home service cost
+";None
+from_ang;Сколько стоит услуга умного дома;Видеонаблюдение;"How much does smart home service cost
+";None
+from_arab;Сколько стоит услуга умного дома?;Видеонаблюдение;"How much does smart home service cost
+";None
+original;Сколько стоит установить видео наблюдение дома;Видеонаблюдение;"How much does it cost to install video surveillance at home
+";None
+from_ang;Сколько стоит установка видеонаблюдения дома;Видеонаблюдение;"How much does it cost to install video surveillance at home
+";None
+from_arab;Сколько стоит установка видеонаблюдения дома;Видеонаблюдение;"How much does it cost to install video surveillance at home
+";None
+original;Камера не воспроизводит голос с телефона что сделать?;Видеонаблюдение;"The camera does not play the voice from the phone. What should I do?
+";None
+from_ang;Камера не воспроизводит голос с телефона. Что я должен делать?;Видеонаблюдение;"The camera does not play the voice from the phone. What should I do?
+";None
+from_arab;Камера не воспроизводит звук с телефона, что делать?;Видеонаблюдение;"The camera does not play the voice from the phone. What should I do?
+";None
+original;Здравствуйте, как мне воостановить пароль на умном доме;Видеонаблюдение;"Hello, how can I reset my smart home password?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Здравствуйте, как я могу сбросить пароль умного дома?;Видеонаблюдение;"Hello, how can I reset my smart home password?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Здравствуйте, как мне сбросить пароль умного дома?;Видеонаблюдение;"Hello, how can I reset my smart home password?
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Как мне оплатить камеру и интернет;Видеонаблюдение;"How can I pay for the camera and internet
+";None
+from_ang;Как я могу заплатить за камеру и интернет;Видеонаблюдение;"How can I pay for the camera and internet
+";None
+from_arab;Как мне заплатить за камеру и интернет;Видеонаблюдение;"How can I pay for the camera and internet
+";None
+original;Подскажите как мне настроить контролер по камере;Видеонаблюдение;"Tell me how to set up a controller by camera
+";None
+from_ang;Подскажите как настроить контроллер по камере;Видеонаблюдение;"Tell me how to set up a controller by camera
+";None
+from_arab;Подскажите как настроить контроллер через камеру;Видеонаблюдение;"Tell me how to set up a controller by camera
+";None
+original;А вы камеру устанавливаете на балкон с выходном на улицу;Видеонаблюдение;"And you install the camera on the balcony with an exit to the street
+";None
+from_ang;А вы устанавливаете камеру на балконе с выходом на улицу;Видеонаблюдение;"And you install the camera on the balcony with an exit to the street
+";None
+from_arab;А вы устанавливаете камеру на балконе с выходом на улицу;Видеонаблюдение;"And you install the camera on the balcony with an exit to the street
+";None
+original;Доброе утро! Я бы хотела установить видео камеру.;Видеонаблюдение;"Good morning! I would like to install a video camera.
+";None
+from_ang;Доброе утро! Я хочу установить видеокамеру.;Видеонаблюдение;"Good morning! I would like to install a video camera.
+";None
+from_arab;доброе утро! Я хочу установить видеокамеру.;Видеонаблюдение;"Good morning! I would like to install a video camera.
+";None
+original;У меня проблема с подключением видео камеры.;Видеонаблюдение;"I have a problem with the video camera connection.
+";None
+from_ang;У меня проблема с подключением видеокамеры.;Видеонаблюдение;"I have a problem with the video camera connection.
+";None
+from_arab;У меня проблема с подключением видеокамеры.;Видеонаблюдение;"I have a problem with the video camera connection.
+";None
+original;Как узнать пароль от камеры видеонаблюдения;Видеонаблюдение;"How to find out the password from the security camera
+";None
+from_ang;Как узнать пароль от камеры безопасности;Видеонаблюдение;"How to find out the password from the security camera
+";None
+from_arab;Как узнать пароль от камеры наблюдения;Видеонаблюдение;"How to find out the password from the security camera
+";None
+original;Я не могу войти в онлайн камеру;Видеонаблюдение;"I cannot enter the webcam
+";None
+from_ang;Я не могу войти в веб-камеру;Видеонаблюдение;"I cannot enter the webcam
+";None
+from_arab;Я не могу получить доступ к веб-камере;Видеонаблюдение;"I cannot enter the webcam
+";None
+original;Как удалить камеру;Видеонаблюдение;"How to remove a camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_ang;Как снять камеру;Видеонаблюдение;"How to remove a camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+from_arab;Как снять камеру;Видеонаблюдение;"How to remove a camera
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kartochka/
+original;Скажите пожалуйста как можно переместить, скинуть видео с телефона, с приложения на мессенджер или эл. почту?;Видеонаблюдение;"Please tell me how you can move, throw a video from your phone, from an application to a messenger or email. mail?
+";None
+from_ang;Подскажите пожалуйста как можно перенести, скинуть видео с телефона, из приложения в мессенджер или на почту. почта?;Видеонаблюдение;"Please tell me how you can move, throw a video from your phone, from an application to a messenger or email. mail?
+";None
+from_arab;Подскажите, пожалуйста, как можно перемещаться, транслировать видео со своего телефона, из приложения в мессенджер или по электронной почте. Почта?;Видеонаблюдение;"Please tell me how you can move, throw a video from your phone, from an application to a messenger or email. mail?
+";None
+original;Забыл пароль, хотел сменить;Видеонаблюдение;"Forgot password, wanted to change
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Забыл пароль, хотел сменить;Видеонаблюдение;"Forgot password, wanted to change
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я забыл свой пароль и хотел сменить;Видеонаблюдение;"Forgot password, wanted to change
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Забыл пороль от умного дома;Видеонаблюдение;"Forgot password from smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Забыл пароль от умного дома;Видеонаблюдение;"Forgot password from smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я забыл пароль от умного дома;Видеонаблюдение;"Forgot password from smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Забыл почту которая привязана к умному дому;Видеонаблюдение;"Forgot the mail that is tied to the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Забыл почту которая привязана к умному дому;Видеонаблюдение;"Forgot the mail that is tied to the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Я забыл почту, связанную с умным домом;Видеонаблюдение;"Forgot the mail that is tied to the smart home
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Добрый день, не могу войти в приложение умный дом. Не помню ни логина ни пароля;Видеонаблюдение;"Good afternoon, I can not enter the smart home application. I do not remember either username or password
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_ang;Добрый день, не могу войти в приложение умный дом. Я не помню ни логина, ни пароля;Видеонаблюдение;"Good afternoon, I can not enter the smart home application. I do not remember either username or password
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+from_arab;Добрый вечер, не могу войти в приложение умный дом. Я не помню логин или пароль;Видеонаблюдение;"Good afternoon, I can not enter the smart home application. I do not remember either username or password
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/avt_1/
+original;Сколько стоит умная разетка и лампочка;Видеонаблюдение;"How much does a smart socket and a light bulb cost
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/help_3/#как-подключить-умную-лампочку
+from_ang;Сколько стоит умная розетка и лампочка;Видеонаблюдение;"How much does a smart socket and a light bulb cost
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/help_3/#как-подключить-умную-лампочку
+from_arab;Сколько стоит умная розетка и лампочка;Видеонаблюдение;"How much does a smart socket and a light bulb cost
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/help_3/#как-подключить-умную-лампочку
+original;Добрый день, можете рассказать про услугу умный домофон?;Видеонаблюдение;"Good afternoon, can you tell us about the smart intercom service?
+";0.0
+from_ang;Добрый день, не могли бы вы рассказать об услуге умного домофона?;Видеонаблюдение;"Good afternoon, can you tell us about the smart intercom service?
+";0.0
+from_arab;Добрый вечер, расскажите об услуге умного домофона?;Видеонаблюдение;"Good afternoon, can you tell us about the smart intercom service?
+";0.0
+original;Прошу отключить услугу архив на 7 дней видеокамеры;Видеонаблюдение;"I ask you to disable the service archive for 7 days of the video camera
+";0.0
+from_ang;Прошу отключить сервисный архив на 7 дней видеокамеры;Видеонаблюдение;"I ask you to disable the service archive for 7 days of the video camera
+";0.0
+from_arab;Прошу отключить сервисный архив на 7 дней с видеокамеры;Видеонаблюдение;"I ask you to disable the service archive for 7 days of the video camera
+";0.0
+original;Сколько будет стоить установить уличную камеру?;Видеонаблюдение;"How much will it cost to install an outdoor camera?
+";https://moscow.rt.ru/smart_house/tariff#vnc
+from_ang;Сколько будет стоить установка уличной камеры?;Видеонаблюдение;"How much will it cost to install an outdoor camera?
+";https://moscow.rt.ru/smart_house/tariff#vnc
+from_arab;Сколько будет стоить установка внешней камеры?;Видеонаблюдение;"How much will it cost to install an outdoor camera?
+";https://moscow.rt.ru/smart_house/tariff#vnc
+original;как настроить звук у камеры;Видеонаблюдение;"how to set up camera sound
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kamera/
+from_ang;как настроить звук камеры;Видеонаблюдение;"how to set up camera sound
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kamera/
+from_arab;Как настроить звук камеры;Видеонаблюдение;"how to set up camera sound
+";https://help.smarthome.rt.ru/RUKOVODSTVO_POLSOVATELIA/kamera/
+original;Зашёл а плиложение камеру не может найти;Видеонаблюдение;"I entered and the camera cannot be found
+";1.0
+from_ang;Я вошел, но камера не может быть найдена;Видеонаблюдение;"I entered and the camera cannot be found
+";1.0
+from_arab;Я вошел и не смог найти камеру;Видеонаблюдение;"I entered and the camera cannot be found
+";1.0
